@@ -1,0 +1,1307 @@
+HEADER    Unclassified                            23-AUG-2024 Void              
+EXPDTA     THEORETICAL MODEL                                          
+REMARK   2                                                            
+REMARK   2 RESOLUTION. NOT APPLICABLE.                                
+REMARK  99                                                            
+REMARK  99                                                            
+REMARK  99 Structure modeled using mcsym-4.2.2                        
+REMARK  99                                                            
+REMARK  99 [structure] Place[ncm_01] : Including model                
+REMARK  99 "MCSYM-DB/2_2/GAUC/1Q9A_R15_R20_R25_R30_R35_model_1.pdb.gz 
+REMARK  99 model #1" from library "ncm_01".                           
+REMARK  99                                                            
+REMARK  99 [structure] Merge[ncm_02]+{|<A2|R:RIB>|,|<A31|R:RIB>|} :   
+REMARK  99 Merge[ncm_02] : 0.3072A RMS alignment on 2 shared views    
+REMARK  99                                                            
+REMARK  99 [structure] Merge[ncm_02]+{|<A2|R:RIB>|,|<A31|R:RIB>|} :   
+REMARK  99 Merge[ncm_02] : Including model                            
+REMARK  99 "MCSYM-DB/2_2/AGUU/1XHP_model_1.pdb.gz model #1" from      
+REMARK  99 library "ncm_02".                                          
+REMARK  99                                                            
+REMARK  99 [structure] Merge[ncm_02]+{|<A2|R:RIB>|,|<A31|R:RIB>|} :   
+REMARK  99 Ribose A2 built as "ccm" with error: 0.353163 A (threshold 
+REMARK  99 at 2).                                                     
+REMARK  99                                                            
+REMARK  99 [structure] Merge[ncm_02]+{|<A2|R:RIB>|,|<A31|R:RIB>|} :   
+REMARK  99 Ribose A31 built as "ccm" with error: 0.143623 A (threshold
+REMARK  99 at 2).                                                     
+REMARK  99                                                            
+REMARK  99 [structure] Merge[ncm_03]+{|<A3|R:RIB>|,|<A30|R:RIB>|} :   
+REMARK  99 Merge[ncm_03] : 0.28493A RMS alignment on 2 shared views   
+REMARK  99                                                            
+REMARK  99 [structure] Merge[ncm_03]+{|<A3|R:RIB>|,|<A30|R:RIB>|} :   
+REMARK  99 Merge[ncm_03] : Including model                            
+REMARK  99 "MCSYM-DB/2_2/GCGU/2FMT_R30_R35_model_1.pdb.gz model #2"   
+REMARK  99 from library "ncm_03".                                     
+REMARK  99                                                            
+REMARK  99 [structure] Merge[ncm_03]+{|<A3|R:RIB>|,|<A30|R:RIB>|} :   
+REMARK  99 Ribose A3 built as "ccm" with error: 0.372057 A (threshold 
+REMARK  99 at 2).                                                     
+REMARK  99                                                            
+REMARK  99 [structure] Merge[ncm_03]+{|<A3|R:RIB>|,|<A30|R:RIB>|} :   
+REMARK  99 Ribose A30 built as "ccm" with error: 0.11981 A (threshold 
+REMARK  99 at 2).                                                     
+REMARK  99                                                            
+REMARK  99 [structure] Merge[ncm_04]+{|<A4|R:RIB>|,|<A29|R:RIB>|} :   
+REMARK  99 Merge[ncm_04] : 0.269113A RMS alignment on 2 shared views  
+REMARK  99                                                            
+REMARK  99 [structure] Merge[ncm_04]+{|<A4|R:RIB>|,|<A29|R:RIB>|} :   
+REMARK  99 Merge[ncm_04] : Including model                            
+REMARK  99 "MCSYM-DB/3_3/CAGCCG/ds-3_3-CAGCCG_x.pdb.gz model #2" from 
+REMARK  99 library "ncm_04".                                          
+REMARK  99                                                            
+REMARK  99 [structure] Merge[ncm_04]+{|<A4|R:RIB>|,|<A29|R:RIB>|} :   
+REMARK  99 Ribose A4 built as "ccm" with error: 0.0463601 A (threshold
+REMARK  99 at 2).                                                     
+REMARK  99                                                            
+REMARK  99 [structure] Merge[ncm_04]+{|<A4|R:RIB>|,|<A29|R:RIB>|} :   
+REMARK  99 Ribose A29 built as "ccm" with error: 0.0137235 A          
+REMARK  99 (threshold at 2).                                          
+REMARK  99                                                            
+REMARK  99 [structure] Merge[ncm_05]+{|<A6|R:RIB>|,|<A27|R:RIB>|} :   
+REMARK  99 Merge[ncm_05] : 0.649519A RMS alignment on 2 shared views  
+REMARK  99                                                            
+REMARK  99 [structure] Merge[ncm_05]+{|<A6|R:RIB>|,|<A27|R:RIB>|} :   
+REMARK  99 Merge[ncm_05] : Including model                            
+REMARK  99 "MCSYM-DB/2_2/GUAC/1JZV_R20_R25_R30_R35_model_1.pdb.gz     
+REMARK  99 model #2" from library "ncm_05".                           
+REMARK  99                                                            
+REMARK  99 [structure] Merge[ncm_05]+{|<A6|R:RIB>|,|<A27|R:RIB>|} :   
+REMARK  99 Ribose A6 built as "ccm" with error: 0.346083 A (threshold 
+REMARK  99 at 2).                                                     
+REMARK  99                                                            
+REMARK  99 [structure] Merge[ncm_05]+{|<A6|R:RIB>|,|<A27|R:RIB>|} :   
+REMARK  99 Ribose A27 built as "ccm" with error: 0.15235 A (threshold 
+REMARK  99 at 2).                                                     
+REMARK  99                                                            
+REMARK  99 [structure] Merge[ncm_06]+{|<A7|R:RIB>|,|<A26|R:RIB>|} :   
+REMARK  99 Merge[ncm_06] : 0.0925255A RMS alignment on 2 shared views 
+REMARK  99                                                            
+REMARK  99 [structure] Merge[ncm_06]+{|<A7|R:RIB>|,|<A26|R:RIB>|} :   
+REMARK  99 Merge[ncm_06] : Including model                            
+REMARK  99 "MCSYM-DB/2_2/UUAA/2G92_R20_R25_R30_R35_model_1.pdb.gz     
+REMARK  99 model #2" from library "ncm_06".                           
+REMARK  99                                                            
+REMARK  99 [structure] Merge[ncm_06]+{|<A7|R:RIB>|,|<A26|R:RIB>|} :   
+REMARK  99 Ribose A7 built as "ccm" with error: 0.0377004 A (threshold
+REMARK  99 at 2).                                                     
+REMARK  99                                                            
+REMARK  99 [structure] Merge[ncm_06]+{|<A7|R:RIB>|,|<A26|R:RIB>|} :   
+REMARK  99 Ribose A26 built as "ccm" with error: 0.066826 A (threshold
+REMARK  99 at 2).                                                     
+REMARK  99                                                            
+REMARK  99 [structure] Merge[ncm_07]+{|<A8|R:RIB>|,|<A25|R:RIB>|} :   
+REMARK  99 Merge[ncm_07] : 0.288143A RMS alignment on 2 shared views  
+REMARK  99                                                            
+REMARK  99 [structure] Merge[ncm_07]+{|<A8|R:RIB>|,|<A25|R:RIB>|} :   
+REMARK  99 Merge[ncm_07] : Including model                            
+REMARK  99 "MCSYM-DB/2_2/UCGA/1J1U_R20_R25_R30_R35_model_1.pdb.gz     
+REMARK  99 model #2" from library "ncm_07".                           
+REMARK  99                                                            
+REMARK  99 [structure] Merge[ncm_07]+{|<A8|R:RIB>|,|<A25|R:RIB>|} :   
+REMARK  99 Ribose A8 built as "ccm" with error: 0.233383 A (threshold 
+REMARK  99 at 2).                                                     
+REMARK  99                                                            
+REMARK  99 [structure] Merge[ncm_07]+{|<A8|R:RIB>|,|<A25|R:RIB>|} :   
+REMARK  99 Ribose A25 built as "ccm" with error: 0.0402532 A          
+REMARK  99 (threshold at 2).                                          
+REMARK  99                                                            
+REMARK  99 [structure] Merge[lnk_01]+{|<A9|R:RIB>|} : Merge[lnk_01] : 
+REMARK  99 0.00394701A RMS alignment on 1 shared views                
+REMARK  99                                                            
+REMARK  99 [structure] Merge[lnk_01]+{|<A9|R:RIB>|} : Merge[lnk_01] : 
+REMARK  99 Including model "MCSYM-DB/ss2/CC/2F88_model_1.pdb.gz model 
+REMARK  99 #1" from library "lnk_01".                                 
+REMARK  99                                                            
+REMARK  99 [structure] Merge[lnk_01]+{|<A9|R:RIB>|} : Ribose A9 built 
+REMARK  99 as "ccm" with error: 0.0080799 A (threshold at 2).         
+REMARK  99                                                            
+REMARK  99 [structure] Merge[lnk_02]+{|<A10|R:RIB>|} : Merge[lnk_02] :
+REMARK  99 0.0105553A RMS alignment on 1 shared views                 
+REMARK  99                                                            
+REMARK  99 [structure] Merge[lnk_02]+{|<A10|R:RIB>|} : Merge[lnk_02] :
+REMARK  99 Including model "MCSYM-DB/ss2/CC/1NC0_model_1.pdb.gz model 
+REMARK  99 #4" from library "lnk_02".                                 
+REMARK  99                                                            
+REMARK  99 [structure] Merge[lnk_02]+{|<A10|R:RIB>|} : Ribose A10     
+REMARK  99 built as "ccm" with error: 0.0218874 A (threshold at 2).   
+REMARK  99                                                            
+REMARK  99 [structure] Merge[ncm_08]+{|<A11|R:RIB>|} : Merge[ncm_08] :
+REMARK  99 0.0403279A RMS alignment on 1 shared views                 
+REMARK  99                                                            
+REMARK  99 [structure] Merge[ncm_08]+{|<A11|R:RIB>|} : Merge[ncm_08] :
+REMARK  99 Including model                                            
+REMARK  99 "MCSYM-DB/2_2/CCGG/259D_R15_R20_R25_R30_R35_model_1.pdb.gz 
+REMARK  99 model #2" from library "ncm_08".                           
+REMARK  99                                                            
+REMARK  99 [structure] Merge[ncm_08]+{|<A11|R:RIB>|} : Ribose A11     
+REMARK  99 built as "ccm" with error: 0.0172613 A (threshold at 2).   
+REMARK  99                                                            
+REMARK  99 [structure] Merge[ncm_09]+{|<A12|R:RIB>|,|<A20|R:RIB>|} :  
+REMARK  99 Merge[ncm_09] : 0.219401A RMS alignment on 2 shared views  
+REMARK  99                                                            
+REMARK  99 [structure] Merge[ncm_09]+{|<A12|R:RIB>|,|<A20|R:RIB>|} :  
+REMARK  99 Merge[ncm_09] : Including model                            
+REMARK  99 "MCSYM-DB/2_2/CUAG/1QC0_R20_R25_R30_R35_model_1.pdb.gz     
+REMARK  99 model #2" from library "ncm_09".                           
+REMARK  99                                                            
+REMARK  99 [structure] Merge[ncm_09]+{|<A12|R:RIB>|,|<A20|R:RIB>|} :  
+REMARK  99 Ribose A12 built as "ccm" with error: 0.182111 A (threshold
+REMARK  99 at 2).                                                     
+REMARK  99                                                            
+REMARK  99 [structure] Merge[ncm_09]+{|<A12|R:RIB>|,|<A20|R:RIB>|} :  
+REMARK  99 Ribose A20 built as "ccm" with error: 0.0903218 A          
+REMARK  99 (threshold at 2).                                          
+REMARK  99                                                            
+REMARK  99 [structure] Merge[lnk_03]+{|<A24|R:RIB>|} : Merge[lnk_03] :
+REMARK  99 0.0201531A RMS alignment on 1 shared views                 
+REMARK  99                                                            
+REMARK  99 [structure] Merge[lnk_03]+{|<A24|R:RIB>|} : Merge[lnk_03] :
+REMARK  99 Including model "MCSYM-DB/ss2/UG/1ZJW_model_1.pdb.gz model 
+REMARK  99 #1" from library "lnk_03".                                 
+REMARK  99                                                            
+REMARK  99 [structure] Merge[lnk_03]+{|<A24|R:RIB>|} : Ribose A24     
+REMARK  99 built as "ccm" with error: 1.12412 A (threshold at 2).     
+REMARK  99                                                            
+REMARK  99 [structure]                                                
+REMARK  99 Merge[lnk_04]+{|<A22|N:PO4>|,|<A22|R:RIB>|,|<A21|R:RIB>|,|<
+REMARK  99 A23|R:RIB>|} : Merge[lnk_04] : 0.00581595A RMS alignment on
+REMARK  99 1 shared views                                             
+REMARK  99                                                            
+REMARK  99 [structure]                                                
+REMARK  99 Merge[lnk_04]+{|<A22|N:PO4>|,|<A22|R:RIB>|,|<A21|R:RIB>|,|<
+REMARK  99 A23|R:RIB>|} : Merge[lnk_04] : Including model             
+REMARK  99 "MCSYM-DB/ss2/AU/1FNX_model_1.pdb.gz model #2" from library
+REMARK  99 "lnk_04".                                                  
+REMARK  99                                                            
+REMARK  99 [structure]                                                
+REMARK  99 Merge[lnk_04]+{|<A22|N:PO4>|,|<A22|R:RIB>|,|<A21|R:RIB>|,|<
+REMARK  99 A23|R:RIB>|} : Phosphate A22 positioned between <A21|R:G>  
+REMARK  99 and <A22|R:A> using:                                       
+REMARK  99 { R:G: / R:A: }{ adjacent_5p }{ "1YJN" '0'2102 / '0'2103   
+REMARK  99 }[318492]: 3.30742 A error (threshold at 3.40282e+38).     
+REMARK  99                                                            
+REMARK  99 [structure]                                                
+REMARK  99 Merge[lnk_04]+{|<A22|N:PO4>|,|<A22|R:RIB>|,|<A21|R:RIB>|,|<
+REMARK  99 A23|R:RIB>|} : Ribose A22 built as "ccm" with error:       
+REMARK  99 1.44102 A (threshold at 2).                                
+REMARK  99                                                            
+REMARK  99 [structure]                                                
+REMARK  99 Merge[lnk_04]+{|<A22|N:PO4>|,|<A22|R:RIB>|,|<A21|R:RIB>|,|<
+REMARK  99 A23|R:RIB>|} : Ribose A21 built as "ccm" with error:       
+REMARK  99 0.830524 A (threshold at 2).                               
+REMARK  99                                                            
+REMARK  99 [structure]                                                
+REMARK  99 Merge[lnk_04]+{|<A22|N:PO4>|,|<A22|R:RIB>|,|<A21|R:RIB>|,|<
+REMARK  99 A23|R:RIB>|} : Ribose A23 built as "ccm" with error: 1.1847
+REMARK  99 A (threshold at 2).                                        
+REMARK  99                                                            
+REMARK  99 [structure] Merge[lnk_05]+{|<A19|R:RIB>|} : Merge[lnk_05] :
+REMARK  99 0.00961653A RMS alignment on 1 shared views                
+REMARK  99                                                            
+REMARK  99 [structure] Merge[lnk_05]+{|<A19|R:RIB>|} : Merge[lnk_05] :
+REMARK  99 Including model "MCSYM-DB/ss2/AA/1F84_model_1.pdb.gz model 
+REMARK  99 #2" from library "lnk_05".                                 
+REMARK  99                                                            
+REMARK  99 [structure] Merge[lnk_05]+{|<A19|R:RIB>|} : Ribose A19     
+REMARK  99 built as "ccm" with error: 0.106016 A (threshold at 2).    
+REMARK  99                                                            
+REMARK  99 [structure] Merge[lnk_06]+{|<A18|R:RIB>|} : Merge[lnk_06] :
+REMARK  99 0.00886461A RMS alignment on 1 shared views                
+REMARK  99                                                            
+REMARK  99 [structure] Merge[lnk_06]+{|<A18|R:RIB>|} : Merge[lnk_06] :
+REMARK  99 Including model "MCSYM-DB/ss2/UA/1I4B_model_1.pdb.gz model 
+REMARK  99 #1" from library "lnk_06".                                 
+REMARK  99                                                            
+REMARK  99 [structure] Merge[lnk_06]+{|<A18|R:RIB>|} : Ribose A18     
+REMARK  99 built as "ccm" with error: 1.15553 A (threshold at 2).     
+REMARK  99                                                            
+REMARK  99 [structure] Merge[lnk_07]+{|<A17|R:RIB>|} : Merge[lnk_07] :
+REMARK  99 0.0122597A RMS alignment on 1 shared views                 
+REMARK  99                                                            
+REMARK  99 [structure] Merge[lnk_07]+{|<A17|R:RIB>|} : Merge[lnk_07] :
+REMARK  99 Including model "MCSYM-DB/ss2/AU/1Z43_model_1.pdb.gz model 
+REMARK  99 #1" from library "lnk_07".                                 
+REMARK  99                                                            
+REMARK  99 [structure] Merge[lnk_07]+{|<A17|R:RIB>|} : Ribose A17     
+REMARK  99 built as "ccm" with error: 0.872982 A (threshold at 2).    
+REMARK  99                                                            
+REMARK  99 [structure] Merge[lnk_08]+{|<A16|R:RIB>|} : Merge[lnk_08] :
+REMARK  99 0.011633A RMS alignment on 1 shared views                  
+REMARK  99                                                            
+REMARK  99 [structure] Merge[lnk_08]+{|<A16|R:RIB>|} : Merge[lnk_08] :
+REMARK  99 Including model "MCSYM-DB/ss2/CA/1FG0_model_1.pdb.gz model 
+REMARK  99 #8" from library "lnk_08".                                 
+REMARK  99                                                            
+REMARK  99 [structure] Merge[lnk_08]+{|<A16|R:RIB>|} : Ribose A16     
+REMARK  99 built as "ccm" with error: 0.0117613 A (threshold at 2).   
+REMARK  99                                                            
+REMARK  99 [structure]                                                
+REMARK  99 Merge[lnk_09]+{|<A14|N:PO4>|,|<A14|R:RIB>|,|<A13|R:RIB>|,|<
+REMARK  99 A15|R:RIB>|,|<A1|R:RIB5>|,|<A32|R:RIB3>|} : Merge[lnk_09] :
+REMARK  99 0.0109257A RMS alignment on 1 shared views                 
+REMARK  99                                                            
+REMARK  99 [structure]                                                
+REMARK  99 Merge[lnk_09]+{|<A14|N:PO4>|,|<A14|R:RIB>|,|<A13|R:RIB>|,|<
+REMARK  99 A15|R:RIB>|,|<A1|R:RIB5>|,|<A32|R:RIB3>|} : Merge[lnk_09] :
+REMARK  99 Including model "MCSYM-DB/ss2/GC/1FG0_model_1.pdb.gz model 
+REMARK  99 #31" from library "lnk_09".                                
+REMARK  99                                                            
+REMARK  99 [structure]                                                
+REMARK  99 Merge[lnk_09]+{|<A14|N:PO4>|,|<A14|R:RIB>|,|<A13|R:RIB>|,|<
+REMARK  99 A15|R:RIB>|,|<A1|R:RIB5>|,|<A32|R:RIB3>|} : Phosphate A14  
+REMARK  99 positioned between <A13|R:U> and <A14|R:G> using:          
+REMARK  99 { R:U: / R:G: }{ adjacent_5p }{ "1K9M" A701 / A702         
+REMARK  99 }[45126]: 3.53043 A error (threshold at 3.40282e+38).      
+REMARK  99                                                            
+REMARK  99 [structure]                                                
+REMARK  99 Merge[lnk_09]+{|<A14|N:PO4>|,|<A14|R:RIB>|,|<A13|R:RIB>|,|<
+REMARK  99 A15|R:RIB>|,|<A1|R:RIB5>|,|<A32|R:RIB3>|} : Ribose A14     
+REMARK  99 built as "ccm" with error: 1.77327 A (threshold at 2).     
+REMARK  99                                                            
+REMARK  99 [structure]                                                
+REMARK  99 Merge[lnk_09]+{|<A14|N:PO4>|,|<A14|R:RIB>|,|<A13|R:RIB>|,|<
+REMARK  99 A15|R:RIB>|,|<A1|R:RIB5>|,|<A32|R:RIB3>|} : Ribose A13     
+REMARK  99 built as "ccm" with error: 0.897284 A (threshold at 2).    
+REMARK  99                                                            
+REMARK  99 [structure]                                                
+REMARK  99 Merge[lnk_09]+{|<A14|N:PO4>|,|<A14|R:RIB>|,|<A13|R:RIB>|,|<
+REMARK  99 A15|R:RIB>|,|<A1|R:RIB5>|,|<A32|R:RIB3>|} : Ribose A15     
+REMARK  99 built as "ccm" with error: 0.0575761 A (threshold at 2).   
+REMARK  99                                                            
+REMARK  99 [structure]                                                
+REMARK  99 Merge[lnk_09]+{|<A14|N:PO4>|,|<A14|R:RIB>|,|<A13|R:RIB>|,|<
+REMARK  99 A15|R:RIB>|,|<A1|R:RIB5>|,|<A32|R:RIB3>|} : Ribose A1 built
+REMARK  99 as "ccm" with error: 0.00842389 A (threshold at 2).        
+REMARK  99                                                            
+REMARK  99 [structure]                                                
+REMARK  99 Merge[lnk_09]+{|<A14|N:PO4>|,|<A14|R:RIB>|,|<A13|R:RIB>|,|<
+REMARK  99 A15|R:RIB>|,|<A1|R:RIB5>|,|<A32|R:RIB3>|} : Ribose A32     
+REMARK  99 built as "ccm" with error: 0.00679395 A (threshold at 2).  
+ATOM      1  C1*   G A   1      10.427 -27.730 -18.350  1.00  0.00              
+ATOM      2  C2*   G A   1      10.871 -26.557 -17.477  1.00  0.00              
+ATOM      3  C3*   G A   1      11.731 -25.763 -18.452  1.00  0.00              
+ATOM      4  C4*   G A   1      10.981 -25.956 -19.780  1.00  0.00              
+ATOM      5  C5*   G A   1      11.841 -25.921 -21.021  1.00  0.00              
+ATOM      6  H1*   G A   1       9.466 -28.095 -17.987  1.00  0.00              
+ATOM      7  H2*   G A   1      11.408 -26.823 -16.566  1.00  0.00              
+ATOM      8  H3*   G A   1      12.771 -26.059 -18.315  1.00  0.00              
+ATOM      9  H4*   G A   1      10.287 -25.124 -19.900  1.00  0.00              
+ATOM     10  O1P   G A   1      13.109 -25.915 -23.512  1.00  0.00              
+ATOM     11  O2*   G A   1       9.739 -25.837 -17.030  1.00  0.00              
+ATOM     12  O2P   G A   1      11.368 -27.443 -24.266  1.00  0.00              
+ATOM     13  O3*   G A   1      11.521 -24.363 -18.359  1.00  0.00              
+ATOM     14  O4*   G A   1      10.355 -27.263 -19.685  1.00  0.00              
+ATOM     15  O5*   G A   1      11.013 -26.113 -22.183  1.00  0.00              
+ATOM     16  P     G A   1      11.644 -26.125 -23.646  1.00  0.00              
+ATOM     17 1H5*   G A   1      12.595 -26.706 -20.970  1.00  0.00              
+ATOM     18 2H5*   G A   1      12.356 -24.963 -21.088  1.00  0.00              
+ATOM     19 HO2*   G A   1      10.031 -25.104 -16.483  1.00  0.00              
+ATOM     20  C2    G A   1      11.787 -30.241 -15.054  1.00  0.00              
+ATOM     21  C4    G A   1      11.730 -29.576 -17.183  1.00  0.00              
+ATOM     22  C5    G A   1      12.651 -30.504 -17.630  1.00  0.00              
+ATOM     23  C6    G A   1      13.184 -31.398 -16.672  1.00  0.00              
+ATOM     24  C8    G A   1      12.085 -29.362 -19.352  1.00  0.00              
+ATOM     25  H1    G A   1      13.053 -31.810 -14.647  1.00  0.00              
+ATOM     26  H8    G A   1      12.011 -28.995 -20.365  1.00  0.00              
+ATOM     27  N1    G A   1      12.707 -31.208 -15.381  1.00  0.00              
+ATOM     28  N2    G A   1      11.433 -30.185 -13.760  1.00  0.00              
+ATOM     29  N3    G A   1      11.271 -29.399 -15.928  1.00  0.00              
+ATOM     30  N7    G A   1      12.868 -30.360 -18.986  1.00  0.00              
+ATOM     31  N9    G A   1      11.376 -28.845 -18.297  1.00  0.00              
+ATOM     32  O6    G A   1      14.027 -32.328 -16.865  1.00  0.00              
+ATOM     33 1H2    G A   1      10.763 -29.496 -13.449  1.00  0.00              
+ATOM     34 2H2    G A   1      11.837 -30.832 -13.098  1.00  0.00              
+ATOM     35  C1*   A A   2      12.915 -26.339 -13.371  1.00  0.00              
+ATOM     36  C2*   A A   2      13.734 -25.606 -12.308  1.00  0.00              
+ATOM     37  C3*   A A   2      14.071 -24.307 -13.028  1.00  0.00              
+ATOM     38  C4*   A A   2      12.844 -24.042 -13.845  1.00  0.00              
+ATOM     39  C5*   A A   2      13.054 -23.181 -15.067  1.00  0.00              
+ATOM     40  H1*   A A   2      12.128 -26.909 -12.877  1.00  0.00              
+ATOM     41  H2*   A A   2      14.621 -26.130 -11.952  1.00  0.00              
+ATOM     42  H3*   A A   2      15.106 -24.497 -13.312  1.00  0.00              
+ATOM     43  H4*   A A   2      12.131 -23.478 -13.244  1.00  0.00              
+ATOM     44  O1P   A A   2      12.722 -22.261 -18.069  1.00  0.00              
+ATOM     45  O2*   A A   2      12.946 -25.406 -11.151  1.00  0.00              
+ATOM     46  O2P   A A   2      14.024 -24.371 -18.695  1.00  0.00              
+ATOM     47  O3*   A A   2      13.750 -22.603 -12.261  1.00  0.00              
+ATOM     48  O4*   A A   2      12.398 -25.361 -14.257  1.00  0.00              
+ATOM     49  O5*   A A   2      13.119 -24.096 -16.408  1.00  0.00              
+ATOM     50  P     A A   2      12.923 -23.723 -17.940  1.00  0.00              
+ATOM     51 1H5*   A A   2      13.983 -22.621 -14.963  1.00  0.00              
+ATOM     52 2H5*   A A   2      12.236 -22.466 -15.154  1.00  0.00              
+ATOM     53 HO2*   A A   2      13.471 -24.945 -10.491  1.00  0.00              
+ATOM     54  C2    A A   2      15.223 -29.914 -12.289  1.00  0.00              
+ATOM     55  C4    A A   2      14.411 -28.375 -13.656  1.00  0.00              
+ATOM     56  C5    A A   2      15.019 -28.941 -14.754  1.00  0.00              
+ATOM     57  C6    A A   2      15.788 -30.098 -14.522  1.00  0.00              
+ATOM     58  C8    A A   2      13.971 -27.243 -15.492  1.00  0.00              
+ATOM     59  H2    A A   2      15.317 -30.327 -11.296  1.00  0.00              
+ATOM     60  H8    A A   2      13.566 -26.484 -16.145  1.00  0.00              
+ATOM     61  N1    A A   2      15.875 -30.571 -13.258  1.00  0.00              
+ATOM     62  N3    A A   2      14.472 -28.815 -12.392  1.00  0.00              
+ATOM     63  N6    A A   2      16.425 -30.733 -15.509  1.00  0.00              
+ATOM     64  N7    A A   2      14.738 -28.218 -15.913  1.00  0.00              
+ATOM     65  N9    A A   2      13.732 -27.280 -14.141  1.00  0.00              
+ATOM     66 1H6    A A   2      16.968 -31.561 -15.309  1.00  0.00              
+ATOM     67 2H6    A A   2      16.364 -30.385 -16.455  1.00  0.00              
+ATOM     68  C1*   G A   3      16.888 -26.676  -9.765  1.00  0.00              
+ATOM     69  C2*   G A   3      17.974 -26.433  -8.716  1.00  0.00              
+ATOM     70  C3*   G A   3      18.439 -25.030  -9.082  1.00  0.00              
+ATOM     71  C4*   G A   3      17.141 -24.357  -9.516  1.00  0.00              
+ATOM     72  C5*   G A   3      17.295 -23.240 -10.520  1.00  0.00              
+ATOM     73  H1*   G A   3      16.140 -27.349  -9.348  1.00  0.00              
+ATOM     74  H2*   G A   3      18.790 -27.156  -8.706  1.00  0.00              
+ATOM     75  H3*   G A   3      19.362 -25.559  -8.842  1.00  0.00              
+ATOM     76  H4*   G A   3      16.694 -23.883  -8.643  1.00  0.00              
+ATOM     77  O1P   G A   3      15.851 -21.672 -13.189  1.00  0.00              
+ATOM     78  O2*   G A   3      17.412 -26.507  -7.421  1.00  0.00              
+ATOM     79  O2P   G A   3      14.813 -20.699 -11.053  1.00  0.00              
+ATOM     80  O3*   G A   3      19.413 -23.355  -9.330  1.00  0.00              
+ATOM     81  O4*   G A   3      16.344 -25.415 -10.112  1.00  0.00              
+ATOM     82  O5*   G A   3      15.917 -22.937 -11.044  1.00  0.00              
+ATOM     83  P     G A   3      15.117 -21.870 -11.914  1.00  0.00              
+ATOM     84 1H5*   G A   3      17.954 -23.544 -11.333  1.00  0.00              
+ATOM     85 2H5*   G A   3      17.727 -22.358 -10.048  1.00  0.00              
+ATOM     86 HO2*   G A   3      18.103 -26.353  -6.772  1.00  0.00              
+ATOM     87  C2    G A   3      19.407 -30.167 -10.375  1.00  0.00              
+ATOM     88  C4    G A   3      18.221 -28.419 -11.043  1.00  0.00              
+ATOM     89  C5    G A   3      18.465 -28.617 -12.386  1.00  0.00              
+ATOM     90  C6    G A   3      19.272 -29.714 -12.781  1.00  0.00              
+ATOM     91  C8    G A   3      17.231 -26.886 -12.272  1.00  0.00              
+ATOM     92  H1    G A   3      20.291 -31.255 -11.865  1.00  0.00              
+ATOM     93  H8    G A   3      16.641 -26.021 -12.538  1.00  0.00              
+ATOM     94  N1    G A   3      19.708 -30.451 -11.684  1.00  0.00              
+ATOM     95  N2    G A   3      19.924 -30.997  -9.457  1.00  0.00              
+ATOM     96  N3    G A   3      18.657 -29.147  -9.993  1.00  0.00              
+ATOM     97  N7    G A   3      17.834 -27.643 -13.148  1.00  0.00              
+ATOM     98  N9    G A   3      17.425 -27.301 -10.977  1.00  0.00              
+ATOM     99  O6    G A   3      19.601 -30.056 -13.924  1.00  0.00              
+ATOM    100 1H2    G A   3      19.740 -30.844  -8.476  1.00  0.00              
+ATOM    101 2H2    G A   3      20.497 -31.777  -9.747  1.00  0.00              
+ATOM    102  C1*   C A   4      22.317 -28.258  -9.249  1.00  0.00              
+ATOM    103  C2*   C A   4      23.725 -28.451  -8.683  1.00  0.00              
+ATOM    104  C3*   C A   4      24.248 -27.020  -8.683  1.00  0.00              
+ATOM    105  C4*   C A   4      22.991 -26.212  -8.319  1.00  0.00              
+ATOM    106  C5*   C A   4      22.938 -24.811  -8.878  1.00  0.00              
+ATOM    107  H1*   C A   4      21.673 -29.050  -8.867  1.00  0.00              
+ATOM    108  H2*   C A   4      24.368 -29.132  -9.241  1.00  0.00              
+ATOM    109  H3*   C A   4      25.021 -26.996  -9.451  1.00  0.00              
+ATOM    110  H4*   C A   4      22.975 -26.081  -7.237  1.00  0.00              
+ATOM    111  O1P   C A   4      20.749 -23.087 -11.401  1.00  0.00              
+ATOM    112  O2*   C A   4      23.647 -29.009  -7.387  1.00  0.00              
+ATOM    113  O2P   C A   4      21.498 -21.993  -9.203  1.00  0.00              
+ATOM    114  O3*   C A   4      24.235 -26.462  -7.310  1.00  0.00              
+ATOM    115  O4*   C A   4      21.875 -26.970  -8.858  1.00  0.00              
+ATOM    116  O5*   C A   4      21.655 -24.462  -9.531  1.00  0.00              
+ATOM    117  P     C A   4      20.871 -23.131  -9.922  1.00  0.00              
+ATOM    118 1H5*   C A   4      23.741 -24.697  -9.607  1.00  0.00              
+ATOM    119 2H5*   C A   4      23.118 -24.106  -8.066  1.00  0.00              
+ATOM    120 HO2*   C A   4      24.536 -29.125  -7.043  1.00  0.00              
+ATOM    121  C2    C A   4      22.687 -29.500 -11.375  1.00  0.00              
+ATOM    122  C4    C A   4      22.256 -28.460 -13.411  1.00  0.00              
+ATOM    123  C5    C A   4      21.854 -27.258 -12.760  1.00  0.00              
+ATOM    124  C6    C A   4      21.889 -27.239 -11.422  1.00  0.00              
+ATOM    125  H5    C A   4      21.529 -26.387 -13.330  1.00  0.00              
+ATOM    126  H6    C A   4      21.591 -26.344 -10.895  1.00  0.00              
+ATOM    127  N1    C A   4      22.298 -28.334 -10.712  1.00  0.00              
+ATOM    128  N3    C A   4      22.656 -29.533 -12.727  1.00  0.00              
+ATOM    129  N4    C A   4      22.242 -28.538 -14.744  1.00  0.00              
+ATOM    130  O2    C A   4      23.053 -30.476 -10.704  1.00  0.00              
+ATOM    131 1H4    C A   4      21.945 -27.744 -15.294  1.00  0.00              
+ATOM    132 2H4    C A   4      22.528 -29.391 -15.204  1.00  0.00              
+ATOM    133  C1*   A A   5      26.811 -30.811 -10.363  1.00  0.00              
+ATOM    134  C2*   A A   5      28.293 -30.886  -9.943  1.00  0.00              
+ATOM    135  C3*   A A   5      28.418 -29.806  -8.869  1.00  0.00              
+ATOM    136  C4*   A A   5      27.054 -29.920  -8.183  1.00  0.00              
+ATOM    137  C5*   A A   5      26.649 -28.698  -7.342  1.00  0.00              
+ATOM    138  H1*   A A   5      26.350 -31.789 -10.502  1.00  0.00              
+ATOM    139  H2*   A A   5      28.994 -30.729 -10.762  1.00  0.00              
+ATOM    140  H3*   A A   5      28.628 -28.806  -9.249  1.00  0.00              
+ATOM    141  H4*   A A   5      27.069 -30.726  -7.450  1.00  0.00              
+ATOM    142  O1P   A A   5      25.846 -25.204  -8.714  1.00  0.00              
+ATOM    143  O2*   A A   5      28.568 -32.183  -9.416  1.00  0.00              
+ATOM    144  O2P   A A   5      26.447 -25.887  -6.314  1.00  0.00              
+ATOM    145  O3*   A A   5      29.575 -30.012  -8.000  1.00  0.00              
+ATOM    146  O4*   A A   5      26.128 -30.140  -9.269  1.00  0.00              
+ATOM    147  O5*   A A   5      26.320 -27.582  -8.140  1.00  0.00              
+ATOM    148  P     A A   5      25.773 -26.186  -7.602  1.00  0.00              
+ATOM    149 1H5*   A A   5      27.419 -28.502  -6.595  1.00  0.00              
+ATOM    150 2H5*   A A   5      25.718 -28.912  -6.818  1.00  0.00              
+ATOM    151 HO2*   A A   5      29.491 -32.225  -9.156  1.00  0.00              
+ATOM    152  C2    A A   5      25.363 -26.936 -11.866  1.00  0.00              
+ATOM    153  C4    A A   5      26.182 -28.970 -12.023  1.00  0.00              
+ATOM    154  C5    A A   5      26.241 -28.899 -13.404  1.00  0.00              
+ATOM    155  C6    A A   5      25.804 -27.705 -14.001  1.00  0.00              
+ATOM    156  C8    A A   5      26.975 -30.826 -12.882  1.00  0.00              
+ATOM    157  H2    A A   5      24.998 -26.117 -11.265  1.00  0.00              
+ATOM    158  H8    A A   5      27.376 -31.827 -12.944  1.00  0.00              
+ATOM    159  N1    A A   5      25.362 -26.722 -13.186  1.00  0.00              
+ATOM    160  N3    A A   5      25.748 -28.014 -11.186  1.00  0.00              
+ATOM    161  N6    A A   5      25.804 -27.492 -15.319  1.00  0.00              
+ATOM    162  N7    A A   5      26.745 -30.079 -13.935  1.00  0.00              
+ATOM    163  N9    A A   5      26.657 -30.217 -11.692  1.00  0.00              
+ATOM    164 1H6    A A   5      25.477 -26.611 -15.688  1.00  0.00              
+ATOM    165 2H6    A A   5      26.130 -28.213 -15.947  1.00  0.00              
+ATOM    166  C1*   G A   6      31.045 -32.048 -13.388  1.00  0.00              
+ATOM    167  C2*   G A   6      32.553 -32.301 -13.378  1.00  0.00              
+ATOM    168  C3*   G A   6      32.878 -32.128 -11.900  1.00  0.00              
+ATOM    169  C4*   G A   6      31.670 -32.647 -11.208  1.00  0.00              
+ATOM    170  C5*   G A   6      31.456 -32.131  -9.805  1.00  0.00              
+ATOM    171  H1*   G A   6      30.576 -32.744 -14.083  1.00  0.00              
+ATOM    172  H2*   G A   6      33.145 -31.645 -14.016  1.00  0.00              
+ATOM    173  H3*   G A   6      33.648 -31.389 -11.677  1.00  0.00              
+ATOM    174  H4*   G A   6      31.760 -33.725 -11.072  1.00  0.00              
+ATOM    175  O1P   G A   6      31.012 -28.164  -8.814  1.00  0.00              
+ATOM    176  O2*   G A   6      32.822 -33.605 -13.852  1.00  0.00              
+ATOM    177  O2P   G A   6      31.973 -30.013  -7.315  1.00  0.00              
+ATOM    178  O3*   G A   6      32.123 -33.823 -11.731  1.00  0.00              
+ATOM    179  O4*   G A   6      30.577 -32.216 -12.061  1.00  0.00              
+ATOM    180  O5*   G A   6      31.369 -30.468  -9.693  1.00  0.00              
+ATOM    181  P     G A   6      31.054 -29.590  -8.402  1.00  0.00              
+ATOM    182 1H5*   G A   6      32.275 -32.479  -9.177  1.00  0.00              
+ATOM    183 2H5*   G A   6      30.530 -32.554  -9.417  1.00  0.00              
+ATOM    184 HO2*   G A   6      33.771 -33.751 -13.841  1.00  0.00              
+ATOM    185  C2    G A   6      30.570 -30.298 -17.339  1.00  0.00              
+ATOM    186  C4    G A   6      30.594 -30.251 -15.124  1.00  0.00              
+ATOM    187  C5    G A   6      30.280 -28.911 -15.030  1.00  0.00              
+ATOM    188  C6    G A   6      30.086 -28.168 -16.223  1.00  0.00              
+ATOM    189  C8    G A   6      30.475 -29.601 -13.026  1.00  0.00              
+ATOM    190  H1    G A   6      30.135 -28.520 -18.254  1.00  0.00              
+ATOM    191  H8    G A   6      30.502 -29.638 -11.947  1.00  0.00              
+ATOM    192  N1    G A   6      30.254 -28.961 -17.354  1.00  0.00              
+ATOM    193  N2    G A   6      30.690 -30.889 -18.537  1.00  0.00              
+ATOM    194  N3    G A   6      30.754 -31.001 -16.235  1.00  0.00              
+ATOM    195  N7    G A   6      30.208 -28.516 -13.701  1.00  0.00              
+ATOM    196  N9    G A   6      30.718 -30.689 -13.828  1.00  0.00              
+ATOM    197  O6    G A   6      29.801 -26.971 -16.346  1.00  0.00              
+ATOM    198 1H2    G A   6      30.921 -31.870 -18.595  1.00  0.00              
+ATOM    199 2H2    G A   6      30.549 -30.352 -19.381  1.00  0.00              
+ATOM    200  C1*   U A   7      33.840 -33.466 -17.165  1.00  0.00              
+ATOM    201  C2*   U A   7      35.139 -34.047 -17.726  1.00  0.00              
+ATOM    202  C3*   U A   7      35.887 -34.403 -16.448  1.00  0.00              
+ATOM    203  C4*   U A   7      34.774 -34.868 -15.532  1.00  0.00              
+ATOM    204  C5*   U A   7      35.043 -34.710 -14.055  1.00  0.00              
+ATOM    205  H1*   U A   7      33.029 -33.682 -17.861  1.00  0.00              
+ATOM    206  H2*   U A   7      35.710 -33.383 -18.375  1.00  0.00              
+ATOM    207  H3*   U A   7      36.555 -33.547 -16.351  1.00  0.00              
+ATOM    208  H4*   U A   7      34.637 -35.940 -15.671  1.00  0.00              
+ATOM    209  O1P   U A   7      34.223 -32.518 -11.551  1.00  0.00              
+ATOM    210  O2*   U A   7      34.851 -35.174 -18.529  1.00  0.00              
+ATOM    211  O2P   U A   7      34.235 -35.071 -11.283  1.00  0.00              
+ATOM    212  O3*   U A   7      36.631 -35.667 -16.257  1.00  0.00              
+ATOM    213  O4*   U A   7      33.628 -34.052 -15.892  1.00  0.00              
+ATOM    214  O5*   U A   7      33.877 -34.012 -13.514  1.00  0.00              
+ATOM    215  P     U A   7      33.699 -33.852 -11.940  1.00  0.00              
+ATOM    216 1H5*   U A   7      35.953 -34.133 -13.886  1.00  0.00              
+ATOM    217 2H5*   U A   7      35.168 -35.683 -13.578  1.00  0.00              
+ATOM    218 HO2*   U A   7      35.673 -35.530 -18.875  1.00  0.00              
+ATOM    219  C2    U A   7      34.117 -31.210 -18.108  1.00  0.00              
+ATOM    220  C4    U A   7      34.044 -29.253 -16.612  1.00  0.00              
+ATOM    221  C5    U A   7      33.835 -30.151 -15.518  1.00  0.00              
+ATOM    222  C6    U A   7      33.779 -31.468 -15.745  1.00  0.00              
+ATOM    223  H3    U A   7      34.331 -29.206 -18.697  1.00  0.00              
+ATOM    224  H5    U A   7      33.724 -29.765 -14.505  1.00  0.00              
+ATOM    225  H6    U A   7      33.620 -32.132 -14.908  1.00  0.00              
+ATOM    226  N1    U A   7      33.914 -32.012 -17.002  1.00  0.00              
+ATOM    227  N3    U A   7      34.171 -29.863 -17.843  1.00  0.00              
+ATOM    228  O2    U A   7      34.241 -31.657 -19.234  1.00  0.00              
+ATOM    229  O4    U A   7      34.114 -28.025 -16.535  1.00  0.00              
+ATOM    230  C1*   U A   8      38.459 -32.101 -20.109  1.00  0.00              
+ATOM    231  C2*   U A   8      39.844 -31.835 -20.701  1.00  0.00              
+ATOM    232  C3*   U A   8      40.744 -32.525 -19.686  1.00  0.00              
+ATOM    233  C4*   U A   8      39.908 -33.754 -19.289  1.00  0.00              
+ATOM    234  C5*   U A   8      40.130 -34.262 -17.885  1.00  0.00              
+ATOM    235  H1*   U A   8      37.728 -32.115 -20.917  1.00  0.00              
+ATOM    236  H2*   U A   8      40.101 -30.785 -20.845  1.00  0.00              
+ATOM    237  H3*   U A   8      41.269 -31.618 -19.385  1.00  0.00              
+ATOM    238  H4*   U A   8      40.200 -34.583 -19.935  1.00  0.00              
+ATOM    239  O1P   U A   8      38.186 -34.295 -14.900  1.00  0.00              
+ATOM    240  O2*   U A   8      39.930 -32.405 -21.992  1.00  0.00              
+ATOM    241  O2P   U A   8      38.947 -36.526 -15.915  1.00  0.00              
+ATOM    242  O3*   U A   8      41.427 -34.053 -19.699  1.00  0.00              
+ATOM    243  O4*   U A   8      38.523 -33.337 -19.419  1.00  0.00              
+ATOM    244  O5*   U A   8      38.575 -34.520 -17.351  1.00  0.00              
+ATOM    245  P     U A   8      38.152 -35.276 -16.014  1.00  0.00              
+ATOM    246 1H5*   U A   8      40.650 -33.527 -17.269  1.00  0.00              
+ATOM    247 2H5*   U A   8      40.715 -35.181 -17.878  1.00  0.00              
+ATOM    248 HO2*   U A   8      40.802 -32.232 -22.353  1.00  0.00              
+ATOM    249  C2    U A   8      37.923 -29.755 -19.596  1.00  0.00              
+ATOM    250  C4    U A   8      37.289 -29.131 -17.298  1.00  0.00              
+ATOM    251  C5    U A   8      37.450 -30.503 -16.927  1.00  0.00              
+ATOM    252  C6    U A   8      37.819 -31.399 -17.849  1.00  0.00              
+ATOM    253  H3    U A   8      37.430 -27.821 -18.941  1.00  0.00              
+ATOM    254  H5    U A   8      37.273 -30.817 -15.898  1.00  0.00              
+ATOM    255  H6    U A   8      37.936 -32.430 -17.552  1.00  0.00              
+ATOM    256  N1    U A   8      38.057 -31.059 -19.161  1.00  0.00              
+ATOM    257  N3    U A   8      37.543 -28.859 -18.627  1.00  0.00              
+ATOM    258  O2    U A   8      38.125 -29.419 -20.749  1.00  0.00              
+ATOM    259  O4    U A   8      36.954 -28.214 -16.546  1.00  0.00              
+ATOM    260  C1*   C A   9      42.000 -29.195 -21.293  1.00  0.00              
+ATOM    261  C2*   C A   9      43.527 -29.160 -21.370  1.00  0.00              
+ATOM    262  C3*   C A   9      43.898 -30.401 -20.569  1.00  0.00              
+ATOM    263  C4*   C A   9      42.775 -31.382 -20.948  1.00  0.00              
+ATOM    264  C5*   C A   9      42.419 -32.398 -19.890  1.00  0.00              
+ATOM    265  H1*   C A   9      41.592 -28.702 -22.176  1.00  0.00              
+ATOM    266  H2*   C A   9      43.998 -28.256 -20.983  1.00  0.00              
+ATOM    267  H3*   C A   9      44.219 -29.864 -19.677  1.00  0.00              
+ATOM    268  H4*   C A   9      43.116 -31.973 -21.798  1.00  0.00              
+ATOM    269  O1P   C A   9      42.670 -32.499 -18.221  1.00  0.00              
+ATOM    270  O2*   C A   9      43.940 -29.231 -22.720  1.00  0.00              
+ATOM    271  O2P   C A   9      43.608 -34.824 -18.770  1.00  0.00              
+ATOM    272  O3*   C A   9      44.790 -31.475 -20.834  1.00  0.00              
+ATOM    273  O4*   C A   9      41.610 -30.554 -21.208  1.00  0.00              
+ATOM    274  O5*   C A   9      43.570 -33.014 -20.487  1.00  0.00              
+ATOM    275  P     C A   9      42.865 -33.608 -19.188  1.00  0.00              
+ATOM    276 1H5*   C A   9      41.466 -32.916 -20.002  1.00  0.00              
+ATOM    277 2H5*   C A   9      42.510 -32.083 -18.850  1.00  0.00              
+ATOM    278 HO2*   C A   9      44.899 -29.208 -22.755  1.00  0.00              
+ATOM    279  C2    C A   9      41.306 -27.106 -20.131  1.00  0.00              
+ATOM    280  C4    C A   9      40.555 -27.202 -17.930  1.00  0.00              
+ATOM    281  C5    C A   9      40.736 -28.614 -17.886  1.00  0.00              
+ATOM    282  C6    C A   9      41.203 -29.212 -18.989  1.00  0.00              
+ATOM    283  H5    C A   9      40.504 -29.186 -16.988  1.00  0.00              
+ATOM    284  H6    C A   9      41.352 -30.282 -18.991  1.00  0.00              
+ATOM    285  N1    C A   9      41.492 -28.490 -20.114  1.00  0.00              
+ATOM    286  N3    C A   9      40.835 -26.488 -19.022  1.00  0.00              
+ATOM    287  N4    C A   9      40.093 -26.551 -16.859  1.00  0.00              
+ATOM    288  O2    C A   9      41.578 -26.477 -21.164  1.00  0.00              
+ATOM    289 1H4    C A   9      39.871 -27.060 -16.016  1.00  0.00              
+ATOM    290 2H4    C A   9      39.965 -25.550 -16.893  1.00  0.00              
+ATOM    291  C1*   C A  10      44.875 -26.290 -19.673  1.00  0.00              
+ATOM    292  C2*   C A  10      46.116 -25.400 -19.596  1.00  0.00              
+ATOM    293  C3*   C A  10      47.233 -26.434 -19.645  1.00  0.00              
+ATOM    294  C4*   C A  10      46.688 -27.481 -20.566  1.00  0.00              
+ATOM    295  C5*   C A  10      47.268 -28.864 -20.389  1.00  0.00              
+ATOM    296  H1*   C A  10      44.108 -25.775 -20.252  1.00  0.00              
+ATOM    297  H2*   C A  10      46.179 -24.755 -18.720  1.00  0.00              
+ATOM    298  H3*   C A  10      47.563 -25.923 -18.740  1.00  0.00              
+ATOM    299  H4*   C A  10      46.941 -27.218 -21.593  1.00  0.00              
+ATOM    300  O1P   C A  10      45.490 -31.660 -18.463  1.00  0.00              
+ATOM    301  O2*   C A  10      46.137 -24.513 -20.698  1.00  0.00              
+ATOM    302  O2P   C A  10      47.187 -31.972 -20.363  1.00  0.00              
+ATOM    303  O3*   C A  10      48.261 -27.191 -20.220  1.00  0.00              
+ATOM    304  O4*   C A  10      45.267 -27.515 -20.268  1.00  0.00              
+ATOM    305  O5*   C A  10      46.265 -29.718 -19.819  1.00  0.00              
+ATOM    306  P     C A  10      45.991 -31.287 -19.810  1.00  0.00              
+ATOM    307 1H5*   C A  10      48.139 -28.822 -19.734  1.00  0.00              
+ATOM    308 2H5*   C A  10      47.591 -29.258 -21.353  1.00  0.00              
+ATOM    309 HO2*   C A  10      46.920 -23.960 -20.638  1.00  0.00              
+ATOM    310  C2    C A  10      43.849 -25.541 -17.532  1.00  0.00              
+ATOM    311  C4    C A  10      43.294 -27.110 -15.905  1.00  0.00              
+ATOM    312  C5    C A  10      43.767 -28.181 -16.717  1.00  0.00              
+ATOM    313  C6    C A  10      44.266 -27.871 -17.919  1.00  0.00              
+ATOM    314  H5    C A  10      43.724 -29.214 -16.371  1.00  0.00              
+ATOM    315  H6    C A  10      44.634 -28.657 -18.561  1.00  0.00              
+ATOM    316  N1    C A  10      44.318 -26.573 -18.348  1.00  0.00              
+ATOM    317  N3    C A  10      43.340 -25.840 -16.314  1.00  0.00              
+ATOM    318  N4    C A  10      42.786 -27.358 -14.695  1.00  0.00              
+ATOM    319  O2    C A  10      43.909 -24.374 -17.947  1.00  0.00              
+ATOM    320 1H4    C A  10      42.735 -28.308 -14.354  1.00  0.00              
+ATOM    321 2H4    C A  10      42.451 -26.597 -14.122  1.00  0.00              
+ATOM    322  C1*   C A  11      47.677 -23.556 -16.295  1.00  0.00              
+ATOM    323  C2*   C A  11      48.995 -23.094 -15.672  1.00  0.00              
+ATOM    324  C3*   C A  11      50.013 -23.773 -16.579  1.00  0.00              
+ATOM    325  C4*   C A  11      49.341 -23.692 -17.943  1.00  0.00              
+ATOM    326  C5*   C A  11      49.726 -24.778 -18.919  1.00  0.00              
+ATOM    327  H1*   C A  11      46.922 -22.787 -16.131  1.00  0.00              
+ATOM    328  H2*   C A  11      49.134 -23.349 -14.621  1.00  0.00              
+ATOM    329  H3*   C A  11      50.314 -24.803 -16.388  1.00  0.00              
+ATOM    330  H4*   C A  11      49.656 -22.766 -18.425  1.00  0.00              
+ATOM    331  O1P   C A  11      49.279 -28.557 -18.419  1.00  0.00              
+ATOM    332  O2*   C A  11      49.075 -21.683 -15.713  1.00  0.00              
+ATOM    333  O2P   C A  11      50.749 -27.266 -20.080  1.00  0.00              
+ATOM    334  O3*   C A  11      51.149 -22.883 -16.442  1.00  0.00              
+ATOM    335  O4*   C A  11      47.918 -23.788 -17.672  1.00  0.00              
+ATOM    336  O5*   C A  11      49.450 -26.073 -18.315  1.00  0.00              
+ATOM    337  P     C A  11      49.516 -27.355 -19.258  1.00  0.00              
+ATOM    338 1H5*   C A  11      50.784 -24.700 -19.166  1.00  0.00              
+ATOM    339 2H5*   C A  11      49.155 -24.669 -19.842  1.00  0.00              
+ATOM    340 HO2*   C A  11      49.906 -21.406 -15.319  1.00  0.00              
+ATOM    341  C2    C A  11      46.444 -24.777 -14.511  1.00  0.00              
+ATOM    342  C4    C A  11      46.293 -27.098 -14.590  1.00  0.00              
+ATOM    343  C5    C A  11      47.052 -27.148 -15.795  1.00  0.00              
+ATOM    344  C6    C A  11      47.476 -25.986 -16.307  1.00  0.00              
+ATOM    345  H5    C A  11      47.278 -28.096 -16.281  1.00  0.00              
+ATOM    346  H6    C A  11      48.053 -25.986 -17.219  1.00  0.00              
+ATOM    347  N1    C A  11      47.189 -24.798 -15.692  1.00  0.00              
+ATOM    348  N3    C A  11      46.008 -25.944 -13.983  1.00  0.00              
+ATOM    349  N4    C A  11      45.844 -28.225 -14.032  1.00  0.00              
+ATOM    350  O2    C A  11      46.200 -23.685 -13.976  1.00  0.00              
+ATOM    351 1H4    C A  11      46.042 -29.116 -14.465  1.00  0.00              
+ATOM    352 2H4    C A  11      45.307 -28.187 -13.178  1.00  0.00              
+ATOM    353  C1*   C A  12      49.237 -23.236 -11.212  1.00  0.00              
+ATOM    354  C2*   C A  12      50.060 -22.939  -9.958  1.00  0.00              
+ATOM    355  C3*   C A  12      51.480 -23.019 -10.503  1.00  0.00              
+ATOM    356  C4*   C A  12      51.326 -22.425 -11.906  1.00  0.00              
+ATOM    357  C5*   C A  12      52.305 -22.935 -12.936  1.00  0.00              
+ATOM    358  H1*   C A  12      48.271 -22.738 -11.126  1.00  0.00              
+ATOM    359  H2*   C A  12      49.896 -23.611  -9.116  1.00  0.00              
+ATOM    360  H3*   C A  12      51.846 -23.967 -10.109  1.00  0.00              
+ATOM    361  H4*   C A  12      51.521 -21.354 -11.845  1.00  0.00              
+ATOM    362  O1P   C A  12      52.297 -24.972 -15.763  1.00  0.00              
+ATOM    363  O2*   C A  12      49.731 -21.656  -9.463  1.00  0.00              
+ATOM    364  O2P   C A  12      53.522 -22.718 -15.695  1.00  0.00              
+ATOM    365  O3*   C A  12      52.142 -21.982 -10.472  1.00  0.00              
+ATOM    366  O4*   C A  12      49.981 -22.777 -12.327  1.00  0.00              
+ATOM    367  O5*   C A  12      51.741 -23.266 -14.035  1.00  0.00              
+ATOM    368  P     C A  12      52.278 -23.509 -15.515  1.00  0.00              
+ATOM    369 1H5*   C A  12      52.827 -23.801 -12.531  1.00  0.00              
+ATOM    370 2H5*   C A  12      53.044 -22.160 -13.137  1.00  0.00              
+ATOM    371 HO2*   C A  12      50.253 -21.481  -8.677  1.00  0.00              
+ATOM    372  C2    C A  12      48.269 -25.388 -10.419  1.00  0.00              
+ATOM    373  C4    C A  12      48.531 -27.315 -11.697  1.00  0.00              
+ATOM    374  C5    C A  12      49.267 -26.607 -12.690  1.00  0.00              
+ATOM    375  C6    C A  12      49.470 -25.298 -12.493  1.00  0.00              
+ATOM    376  H5    C A  12      49.651 -27.111 -13.577  1.00  0.00              
+ATOM    377  H6    C A  12      50.023 -24.730 -13.225  1.00  0.00              
+ATOM    378  N1    C A  12      48.987 -24.670 -11.378  1.00  0.00              
+ATOM    379  N3    C A  12      48.056 -26.712 -10.606  1.00  0.00              
+ATOM    380  N4    C A  12      48.299 -28.623 -11.839  1.00  0.00              
+ATOM    381  O2    C A  12      47.844 -24.792  -9.418  1.00  0.00              
+ATOM    382 1H4    C A  12      48.644 -29.112 -12.653  1.00  0.00              
+ATOM    383 2H4    C A  12      47.777 -29.123 -11.134  1.00  0.00              
+ATOM    384  C1*   U A  13      50.207 -25.035  -6.051  1.00  0.00              
+ATOM    385  C2*   U A  13      51.014 -25.218  -4.765  1.00  0.00              
+ATOM    386  C3*   U A  13      52.176 -24.262  -5.000  1.00  0.00              
+ATOM    387  C4*   U A  13      51.630 -23.183  -5.841  1.00  0.00              
+ATOM    388  C5*   U A  13      52.649 -22.410  -6.645  1.00  0.00              
+ATOM    389  H1*   U A  13      49.155 -24.913  -5.792  1.00  0.00              
+ATOM    390  H2*   U A  13      51.344 -26.236  -4.557  1.00  0.00              
+ATOM    391  H3*   U A  13      53.222 -24.566  -4.978  1.00  0.00              
+ATOM    392  H4*   U A  13      51.171 -22.408  -5.227  1.00  0.00              
+ATOM    393  O1P   U A  13      53.687 -23.906 -10.711  1.00  0.00              
+ATOM    394  O2*   U A  13      50.223 -24.861  -3.649  1.00  0.00              
+ATOM    395  O2P   U A  13      54.383 -21.817  -9.392  1.00  0.00              
+ATOM    396  O3*   U A  13      50.150 -23.104  -4.048  1.00  0.00              
+ATOM    397  O4*   U A  13      50.731 -23.904  -6.724  1.00  0.00              
+ATOM    398  O5*   U A  13      52.690 -23.408  -8.482  1.00  0.00              
+ATOM    399  P     U A  13      53.336 -22.787  -9.799  1.00  0.00              
+ATOM    400 1H5*   U A  13      53.627 -22.426  -6.164  1.00  0.00              
+ATOM    401 2H5*   U A  13      52.351 -21.369  -6.766  1.00  0.00              
+ATOM    402 HO2*   U A  13      50.740 -24.980  -2.849  1.00  0.00              
+ATOM    403  C2    U A  13      49.868 -27.430  -6.507  1.00  0.00              
+ATOM    404  C4    U A  13      50.556 -28.360  -8.682  1.00  0.00              
+ATOM    405  C5    U A  13      50.996 -27.050  -9.054  1.00  0.00              
+ATOM    406  C6    U A  13      50.863 -26.038  -8.190  1.00  0.00              
+ATOM    407  H3    U A  13      49.673 -29.435  -7.101  1.00  0.00              
+ATOM    408  H5    U A  13      51.437 -26.878 -10.036  1.00  0.00              
+ATOM    409  H6    U A  13      51.200 -25.055  -8.487  1.00  0.00              
+ATOM    410  N1    U A  13      50.315 -26.196  -6.938  1.00  0.00              
+ATOM    411  N3    U A  13      50.017 -28.449  -7.415  1.00  0.00              
+ATOM    412  O2    U A  13      49.378 -27.606  -5.405  1.00  0.00              
+ATOM    413  O4    U A  13      50.622 -29.370  -9.384  1.00  0.00              
+ATOM    414  C1*   G A  14      46.274 -27.930   1.761  1.00  0.00              
+ATOM    415  C2*   G A  14      47.258 -28.203   2.899  1.00  0.00              
+ATOM    416  C3*   G A  14      48.321 -27.143   2.641  1.00  0.00              
+ATOM    417  C4*   G A  14      47.483 -25.955   2.139  1.00  0.00              
+ATOM    418  C5*   G A  14      48.185 -25.029   1.175  1.00  0.00              
+ATOM    419  H1*   G A  14      45.278 -28.241   2.074  1.00  0.00              
+ATOM    420  H2*   G A  14      47.671 -29.211   2.934  1.00  0.00              
+ATOM    421  H3*   G A  14      49.118 -27.581   2.040  1.00  0.00              
+ATOM    422  H4*   G A  14      47.237 -25.330   2.997  1.00  0.00              
+ATOM    423  O1P   G A  14      52.125 -22.164  -2.882  1.00  0.00              
+ATOM    424  O2*   G A  14      46.607 -28.038   4.143  1.00  0.00              
+ATOM    425  O2P   G A  14      49.880 -20.920  -2.877  1.00  0.00              
+ATOM    426  O3*   G A  14      48.848 -26.471   3.981  1.00  0.00              
+ATOM    427  O4*   G A  14      46.339 -26.545   1.467  1.00  0.00              
+ATOM    428  O5*   G A  14      50.199 -23.003  -1.542  1.00  0.00              
+ATOM    429  P     G A  14      50.641 -22.194  -2.841  1.00  0.00              
+ATOM    430 1H5*   G A  14      48.634 -24.460   1.989  1.00  0.00              
+ATOM    431 2H5*   G A  14      47.249 -24.543   0.900  1.00  0.00              
+ATOM    432 HO2*   G A  14      47.233 -28.212   4.850  1.00  0.00              
+ATOM    433  C2    G A  14      45.386 -31.995   0.501  1.00  0.00              
+ATOM    434  C4    G A  14      46.272 -29.979   0.261  1.00  0.00              
+ATOM    435  C5    G A  14      46.814 -30.234  -0.981  1.00  0.00              
+ATOM    436  C6    G A  14      46.627 -31.516  -1.559  1.00  0.00              
+ATOM    437  C8    G A  14      47.341 -28.223  -0.525  1.00  0.00              
+ATOM    438  H1    G A  14      45.697 -33.287  -1.056  1.00  0.00              
+ATOM    439  H8    G A  14      47.750 -27.225  -0.585  1.00  0.00              
+ATOM    440  N1    G A  14      45.885 -32.349  -0.729  1.00  0.00              
+ATOM    441  N2    G A  14      44.693 -32.941   1.151  1.00  0.00              
+ATOM    442  N3    G A  14      45.554 -30.805   1.051  1.00  0.00              
+ATOM    443  N7    G A  14      47.484 -29.118  -1.464  1.00  0.00              
+ATOM    444  N9    G A  14      46.615 -28.680   0.549  1.00  0.00              
+ATOM    445  O6    G A  14      47.030 -31.934  -2.652  1.00  0.00              
+ATOM    446 1H2    G A  14      44.301 -32.744   2.061  1.00  0.00              
+ATOM    447 2H2    G A  14      44.565 -33.851   0.732  1.00  0.00              
+ATOM    448  C1*   C A  15      54.961 -27.898   3.353  1.00  0.00              
+ATOM    449  C2*   C A  15      54.456 -28.111   1.925  1.00  0.00              
+ATOM    450  C3*   C A  15      53.042 -27.552   2.019  1.00  0.00              
+ATOM    451  C4*   C A  15      53.142 -26.458   3.008  1.00  0.00              
+ATOM    452  C5*   C A  15      51.847 -26.081   3.688  1.00  0.00              
+ATOM    453  H1*   C A  15      55.985 -27.526   3.312  1.00  0.00              
+ATOM    454  H2*   C A  15      54.477 -29.140   1.566  1.00  0.00              
+ATOM    455  H3*   C A  15      52.514 -28.494   2.165  1.00  0.00              
+ATOM    456  H4*   C A  15      53.443 -25.533   2.517  1.00  0.00              
+ATOM    457  O1P   C A  15      50.927 -26.322   5.323  1.00  0.00              
+ATOM    458  O2*   C A  15      55.272 -27.397   1.018  1.00  0.00              
+ATOM    459  O2P   C A  15      50.047 -28.592   4.511  1.00  0.00              
+ATOM    460  O3*   C A  15      52.270 -27.028   1.035  1.00  0.00              
+ATOM    461  O4*   C A  15      54.081 -26.984   3.983  1.00  0.00              
+ATOM    462  O5*   C A  15      51.067 -26.963   2.919  1.00  0.00              
+ATOM    463  P     C A  15      50.258 -27.140   4.280  1.00  0.00              
+ATOM    464 1H5*   C A  15      51.576 -25.033   3.559  1.00  0.00              
+ATOM    465 2H5*   C A  15      51.834 -26.303   4.755  1.00  0.00              
+ATOM    466 HO2*   C A  15      54.945 -27.538   0.126  1.00  0.00              
+ATOM    467  C2    C A  15      55.757 -30.227   3.728  1.00  0.00              
+ATOM    468  C4    C A  15      54.976 -31.435   5.557  1.00  0.00              
+ATOM    469  C5    C A  15      54.163 -30.346   5.983  1.00  0.00              
+ATOM    470  C6    C A  15      54.190 -29.230   5.244  1.00  0.00              
+ATOM    471  H5    C A  15      53.543 -30.418   6.876  1.00  0.00              
+ATOM    472  H6    C A  15      53.586 -28.383   5.538  1.00  0.00              
+ATOM    473  N1    C A  15      54.969 -29.144   4.124  1.00  0.00              
+ATOM    474  N3    C A  15      55.740 -31.362   4.466  1.00  0.00              
+ATOM    475  N4    C A  15      54.990 -32.575   6.254  1.00  0.00              
+ATOM    476  O2    C A  15      56.453 -30.120   2.707  1.00  0.00              
+ATOM    477 1H4    C A  15      54.423 -32.665   7.085  1.00  0.00              
+ATOM    478 2H4    C A  15      55.566 -33.346   5.949  1.00  0.00              
+ATOM    479  C1*   A A  16      54.457 -32.461  -0.328  1.00  0.00              
+ATOM    480  C2*   A A  16      53.926 -33.286  -1.501  1.00  0.00              
+ATOM    481  C3*   A A  16      52.756 -32.430  -1.968  1.00  0.00              
+ATOM    482  C4*   A A  16      53.230 -31.036  -1.730  1.00  0.00              
+ATOM    483  C5*   A A  16      52.142 -30.002  -1.567  1.00  0.00              
+ATOM    484  H1*   A A  16      55.545 -32.525  -0.317  1.00  0.00              
+ATOM    485  H2*   A A  16      53.628 -34.308  -1.263  1.00  0.00              
+ATOM    486  H3*   A A  16      51.719 -32.149  -1.782  1.00  0.00              
+ATOM    487  H4*   A A  16      53.788 -30.691  -2.601  1.00  0.00              
+ATOM    488  O1P   A A  16      50.620 -28.871   1.190  1.00  0.00              
+ATOM    489  O2*   A A  16      54.933 -33.425  -2.483  1.00  0.00              
+ATOM    490  O2P   A A  16      50.511 -27.168  -0.727  1.00  0.00              
+ATOM    491  O3*   A A  16      51.766 -33.109  -2.729  1.00  0.00              
+ATOM    492  O4*   A A  16      53.996 -31.133  -0.501  1.00  0.00              
+ATOM    493  O5*   A A  16      52.310 -28.894  -0.640  1.00  0.00              
+ATOM    494  P     A A  16      51.312 -27.993   0.212  1.00  0.00              
+ATOM    495 1H5*   A A  16      51.240 -30.534  -1.265  1.00  0.00              
+ATOM    496 2H5*   A A  16      51.965 -29.569  -2.551  1.00  0.00              
+ATOM    497 HO2*   A A  16      54.589 -33.944  -3.213  1.00  0.00              
+ATOM    498  C2    A A  16      54.356 -36.423   1.526  1.00  0.00              
+ATOM    499  C4    A A  16      54.003 -34.256   1.415  1.00  0.00              
+ATOM    500  C5    A A  16      53.430 -34.229   2.674  1.00  0.00              
+ATOM    501  C6    A A  16      53.347 -35.451   3.364  1.00  0.00              
+ATOM    502  C8    A A  16      53.379 -32.226   1.962  1.00  0.00              
+ATOM    503  H2    A A  16      54.726 -37.337   1.083  1.00  0.00              
+ATOM    504  H8    A A  16      53.212 -31.162   1.893  1.00  0.00              
+ATOM    505  N1    A A  16      53.830 -36.552   2.748  1.00  0.00              
+ATOM    506  N3    A A  16      54.492 -35.332   0.775  1.00  0.00              
+ATOM    507  N6    A A  16      52.820 -35.578   4.584  1.00  0.00              
+ATOM    508  N7    A A  16      53.040 -32.939   3.008  1.00  0.00              
+ATOM    509  N9    A A  16      53.968 -32.960   0.960  1.00  0.00              
+ATOM    510 1H6    A A  16      52.789 -36.484   5.029  1.00  0.00              
+ATOM    511 2H6    A A  16      52.454 -34.768   5.063  1.00  0.00              
+ATOM    512  C1*   U A  17      52.827 -38.788  -1.412  1.00  0.00              
+ATOM    513  C2*   U A  17      51.903 -39.838  -2.031  1.00  0.00              
+ATOM    514  C3*   U A  17      51.123 -38.999  -3.035  1.00  0.00              
+ATOM    515  C4*   U A  17      52.131 -38.006  -3.511  1.00  0.00              
+ATOM    516  C5*   U A  17      51.562 -36.722  -4.066  1.00  0.00              
+ATOM    517  H1*   U A  17      53.795 -39.247  -1.210  1.00  0.00              
+ATOM    518  H2*   U A  17      51.254 -40.365  -1.332  1.00  0.00              
+ATOM    519  H3*   U A  17      50.044 -38.847  -3.003  1.00  0.00              
+ATOM    520  H4*   U A  17      52.686 -38.429  -4.348  1.00  0.00              
+ATOM    521  O1P   U A  17      49.879 -33.775  -1.265  1.00  0.00              
+ATOM    522  O2*   U A  17      52.674 -40.853  -2.642  1.00  0.00              
+ATOM    523  O2P   U A  17      49.677 -33.924  -3.820  1.00  0.00              
+ATOM    524  O3*   U A  17      53.220 -40.008  -4.047  1.00  0.00              
+ATOM    525  O4*   U A  17      52.922 -37.712  -2.329  1.00  0.00              
+ATOM    526  O5*   U A  17      51.109 -35.523  -2.547  1.00  0.00              
+ATOM    527  P     U A  17      50.495 -34.053  -2.587  1.00  0.00              
+ATOM    528 1H5*   U A  17      50.670 -36.932  -4.656  1.00  0.00              
+ATOM    529 2H5*   U A  17      52.291 -36.241  -4.718  1.00  0.00              
+ATOM    530 HO2*   U A  17      52.083 -41.505  -3.027  1.00  0.00              
+ATOM    531  C2    U A  17      52.543 -38.970   1.026  1.00  0.00              
+ATOM    532  C4    U A  17      51.275 -37.235   2.232  1.00  0.00              
+ATOM    533  C5    U A  17      51.071 -36.575   0.979  1.00  0.00              
+ATOM    534  C6    U A  17      51.580 -37.105  -0.139  1.00  0.00              
+ATOM    535  H3    U A  17      52.180 -38.930   3.094  1.00  0.00              
+ATOM    536  H5    U A  17      50.503 -35.646   0.936  1.00  0.00              
+ATOM    537  H6    U A  17      51.417 -36.593  -1.075  1.00  0.00              
+ATOM    538  N1    U A  17      52.304 -38.275  -0.143  1.00  0.00              
+ATOM    539  N3    U A  17      52.008 -38.402   2.156  1.00  0.00              
+ATOM    540  O2    U A  17      53.179 -40.008   1.058  1.00  0.00              
+ATOM    541  O4    U A  17      50.860 -36.851   3.326  1.00  0.00              
+ATOM    542  C1*   A A  18      49.559 -39.107  -6.231  1.00  0.00              
+ATOM    543  C2*   A A  18      48.170 -39.612  -6.620  1.00  0.00              
+ATOM    544  C3*   A A  18      48.467 -41.060  -6.989  1.00  0.00              
+ATOM    545  C4*   A A  18      49.611 -41.451  -6.147  1.00  0.00              
+ATOM    546  C5*   A A  18      50.430 -42.609  -6.665  1.00  0.00              
+ATOM    547  H1*   A A  18      49.484 -38.557  -5.293  1.00  0.00              
+ATOM    548  H2*   A A  18      47.678 -39.067  -7.425  1.00  0.00              
+ATOM    549  H3*   A A  18      48.670 -41.818  -7.745  1.00  0.00              
+ATOM    550  H4*   A A  18      49.271 -41.812  -5.176  1.00  0.00              
+ATOM    551  O1P   A A  18      52.945 -39.366  -6.425  1.00  0.00              
+ATOM    552  O2*   A A  18      47.292 -39.494  -5.518  1.00  0.00              
+ATOM    553  O2P   A A  18      54.820 -40.963  -5.703  1.00  0.00              
+ATOM    554  O3*   A A  18      46.059 -39.945  -6.241  1.00  0.00              
+ATOM    555  O4*   A A  18      50.408 -40.237  -6.125  1.00  0.00              
+ATOM    556  O5*   A A  18      52.437 -41.702  -5.723  1.00  0.00              
+ATOM    557  P     A A  18      53.429 -40.467  -5.554  1.00  0.00              
+ATOM    558 1H5*   A A  18      50.445 -42.694  -7.752  1.00  0.00              
+ATOM    559 2H5*   A A  18      50.142 -43.577  -6.256  1.00  0.00              
+ATOM    560 HO2*   A A  18      46.424 -39.814  -5.774  1.00  0.00              
+ATOM    561  C2    A A  18      50.762 -34.901  -6.157  1.00  0.00              
+ATOM    562  C4    A A  18      50.451 -36.878  -7.067  1.00  0.00              
+ATOM    563  C5    A A  18      50.932 -36.450  -8.292  1.00  0.00              
+ATOM    564  C6    A A  18      51.349 -35.111  -8.383  1.00  0.00              
+ATOM    565  C8    A A  18      50.410 -38.496  -8.547  1.00  0.00              
+ATOM    566  H2    A A  18      50.705 -34.243  -5.302  1.00  0.00              
+ATOM    567  H8    A A  18      50.251 -39.472  -8.981  1.00  0.00              
+ATOM    568  N1    A A  18      51.249 -34.348  -7.273  1.00  0.00              
+ATOM    569  N3    A A  18      50.338 -36.145  -5.946  1.00  0.00              
+ATOM    570  N6    A A  18      51.834 -34.560  -9.498  1.00  0.00              
+ATOM    571  N7    A A  18      50.900 -37.483  -9.219  1.00  0.00              
+ATOM    572  N9    A A  18      50.116 -38.200  -7.238  1.00  0.00              
+ATOM    573 1H6    A A  18      52.117 -33.591  -9.500  1.00  0.00              
+ATOM    574 2H6    A A  18      51.917 -35.113 -10.339  1.00  0.00              
+ATOM    575  C1*   A A  19      46.881 -34.916  -3.801  1.00  0.00              
+ATOM    576  C2*   A A  19      45.694 -34.160  -3.203  1.00  0.00              
+ATOM    577  C3*   A A  19      44.537 -35.083  -3.562  1.00  0.00              
+ATOM    578  C4*   A A  19      45.127 -36.442  -3.488  1.00  0.00              
+ATOM    579  C5*   A A  19      44.411 -37.503  -4.289  1.00  0.00              
+ATOM    580  H1*   A A  19      47.726 -34.844  -3.115  1.00  0.00              
+ATOM    581  H2*   A A  19      45.549 -33.144  -3.570  1.00  0.00              
+ATOM    582  H3*   A A  19      44.233 -34.363  -4.322  1.00  0.00              
+ATOM    583  H4*   A A  19      45.070 -36.814  -2.465  1.00  0.00              
+ATOM    584  O1P   A A  19      44.924 -38.535  -7.935  1.00  0.00              
+ATOM    585  O2*   A A  19      45.872 -34.016  -1.808  1.00  0.00              
+ATOM    586  O2P   A A  19      43.576 -39.753  -6.122  1.00  0.00              
+ATOM    587  O3*   A A  19      43.277 -35.217  -3.366  1.00  0.00              
+ATOM    588  O4*   A A  19      46.470 -36.256  -4.009  1.00  0.00              
+ATOM    589  O5*   A A  19      44.995 -37.778  -5.562  1.00  0.00              
+ATOM    590  P     A A  19      44.800 -39.022  -6.537  1.00  0.00              
+ATOM    591 1H5*   A A  19      43.380 -37.186  -4.441  1.00  0.00              
+ATOM    592 2H5*   A A  19      44.397 -38.426  -3.708  1.00  0.00              
+ATOM    593 HO2*   A A  19      45.121 -33.541  -1.445  1.00  0.00              
+ATOM    594  C2    A A  19      48.412 -31.002  -5.017  1.00  0.00              
+ATOM    595  C4    A A  19      47.769 -33.082  -5.321  1.00  0.00              
+ATOM    596  C5    A A  19      48.033 -33.023  -6.678  1.00  0.00              
+ATOM    597  C6    A A  19      48.531 -31.809  -7.180  1.00  0.00              
+ATOM    598  C8    A A  19      47.307 -34.987  -6.305  1.00  0.00              
+ATOM    599  H2    A A  19      48.577 -30.158  -4.363  1.00  0.00              
+ATOM    600  H8    A A  19      46.988 -36.010  -6.440  1.00  0.00              
+ATOM    601  N1    A A  19      48.713 -30.797  -6.303  1.00  0.00              
+ATOM    602  N3    A A  19      47.938 -32.096  -4.425  1.00  0.00              
+ATOM    603  N6    A A  19      48.830 -31.605  -8.465  1.00  0.00              
+ATOM    604  N7    A A  19      47.736 -34.235  -7.289  1.00  0.00              
+ATOM    605  N9    A A  19      47.301 -34.353  -5.086  1.00  0.00              
+ATOM    606 1H6    A A  19      49.185 -30.708  -8.764  1.00  0.00              
+ATOM    607 2H6    A A  19      48.702 -32.348  -9.137  1.00  0.00              
+ATOM    608  C1*   G A  20      44.674 -29.856  -4.217  1.00  0.00              
+ATOM    609  C2*   G A  20      43.647 -28.726  -4.130  1.00  0.00              
+ATOM    610  C3*   G A  20      42.341 -29.508  -4.098  1.00  0.00              
+ATOM    611  C4*   G A  20      42.702 -30.730  -3.296  1.00  0.00              
+ATOM    612  C5*   G A  20      41.858 -31.953  -3.564  1.00  0.00              
+ATOM    613  H1*   G A  20      45.575 -29.554  -3.682  1.00  0.00              
+ATOM    614  H2*   G A  20      43.680 -27.996  -4.940  1.00  0.00              
+ATOM    615  H3*   G A  20      42.099 -29.461  -5.160  1.00  0.00              
+ATOM    616  H4*   G A  20      42.538 -30.517  -2.240  1.00  0.00              
+ATOM    617  O1P   G A  20      42.371 -35.145  -5.672  1.00  0.00              
+ATOM    618  O2*   G A  20      43.866 -27.970  -2.956  1.00  0.00              
+ATOM    619  O2P   G A  20      40.810 -34.983  -3.641  1.00  0.00              
+ATOM    620  O3*   G A  20      41.156 -29.167  -3.663  1.00  0.00              
+ATOM    621  O4*   G A  20      44.079 -31.014  -3.659  1.00  0.00              
+ATOM    622  O5*   G A  20      42.307 -33.088  -4.268  1.00  0.00              
+ATOM    623  P     G A  20      42.108 -34.668  -4.291  1.00  0.00              
+ATOM    624 1H5*   G A  20      40.977 -31.598  -4.098  1.00  0.00              
+ATOM    625 2H5*   G A  20      41.536 -32.315  -2.587  1.00  0.00              
+ATOM    626 HO2*   G A  20      43.216 -27.265  -2.912  1.00  0.00              
+ATOM    627  C2    G A  20      46.579 -27.441  -7.290  1.00  0.00              
+ATOM    628  C4    G A  20      45.659 -29.290  -6.488  1.00  0.00              
+ATOM    629  C5    G A  20      45.813 -30.014  -7.652  1.00  0.00              
+ATOM    630  C6    G A  20      46.419 -29.388  -8.772  1.00  0.00              
+ATOM    631  C8    G A  20      44.875 -31.334  -6.271  1.00  0.00              
+ATOM    632  H1    G A  20      47.219 -27.544  -9.231  1.00  0.00              
+ATOM    633  H8    G A  20      44.418 -32.206  -5.826  1.00  0.00              
+ATOM    634  N1    G A  20      46.778 -28.074  -8.493  1.00  0.00              
+ATOM    635  N2    G A  20      46.994 -26.168  -7.217  1.00  0.00              
+ATOM    636  N3    G A  20      46.015 -28.012  -6.240  1.00  0.00              
+ATOM    637  N7    G A  20      45.315 -31.301  -7.500  1.00  0.00              
+ATOM    638  N9    G A  20      45.054 -30.148  -5.602  1.00  0.00              
+ATOM    639  O6    G A  20      46.644 -29.865  -9.891  1.00  0.00              
+ATOM    640 1H2    G A  20      46.877 -25.646  -6.361  1.00  0.00              
+ATOM    641 2H2    G A  20      47.425 -25.731  -8.019  1.00  0.00              
+ATOM    642  C1*   G A  21      43.064 -24.958  -6.659  1.00  0.00              
+ATOM    643  C2*   G A  21      42.174 -23.793  -7.094  1.00  0.00              
+ATOM    644  C3*   G A  21      40.894 -24.086  -6.322  1.00  0.00              
+ATOM    645  C4*   G A  21      41.327 -24.772  -5.093  1.00  0.00              
+ATOM    646  C5*   G A  21      40.277 -25.627  -4.424  1.00  0.00              
+ATOM    647  H1*   G A  21      44.047 -24.569  -6.391  1.00  0.00              
+ATOM    648  H2*   G A  21      42.005 -23.704  -8.167  1.00  0.00              
+ATOM    649  H3*   G A  21      39.940 -24.229  -6.829  1.00  0.00              
+ATOM    650  H4*   G A  21      41.581 -24.051  -4.316  1.00  0.00              
+ATOM    651  O1P   G A  21      39.904 -29.743  -5.724  1.00  0.00              
+ATOM    652  O2*   G A  21      42.773 -22.568  -6.721  1.00  0.00              
+ATOM    653  O2P   G A  21      38.786 -28.413  -3.835  1.00  0.00              
+ATOM    654  O3*   G A  21      42.392 -22.765  -4.846  1.00  0.00              
+ATOM    655  O4*   G A  21      42.423 -25.597  -5.569  1.00  0.00              
+ATOM    656  O5*   G A  21      40.521 -27.368  -5.292  1.00  0.00              
+ATOM    657  P     G A  21      39.989 -28.724  -4.648  1.00  0.00              
+ATOM    658 1H5*   G A  21      39.275 -25.233  -4.591  1.00  0.00              
+ATOM    659 2H5*   G A  21      40.439 -25.690  -3.348  1.00  0.00              
+ATOM    660 HO2*   G A  21      42.206 -21.845  -6.999  1.00  0.00              
+ATOM    661  C2    G A  21      44.834 -24.650 -10.618  1.00  0.00              
+ATOM    662  C4    G A  21      43.831 -25.719  -8.957  1.00  0.00              
+ATOM    663  C5    G A  21      43.775 -26.931  -9.612  1.00  0.00              
+ATOM    664  C6    G A  21      44.307 -27.025 -10.923  1.00  0.00              
+ATOM    665  C8    G A  21      42.875 -27.260  -7.711  1.00  0.00              
+ATOM    666  H1    G A  21      45.231 -25.776 -12.280  1.00  0.00              
+ATOM    667  H8    G A  21      42.386 -27.728  -6.869  1.00  0.00              
+ATOM    668  N1    G A  21      44.827 -25.809 -11.355  1.00  0.00              
+ATOM    669  N2    G A  21      45.382 -23.578 -11.210  1.00  0.00              
+ATOM    670  N3    G A  21      44.340 -24.548  -9.396  1.00  0.00              
+ATOM    671  N7    G A  21      43.170 -27.893  -8.814  1.00  0.00              
+ATOM    672  N9    G A  21      43.249 -25.938  -7.731  1.00  0.00              
+ATOM    673  O6    G A  21      44.351 -28.013 -11.667  1.00  0.00              
+ATOM    674 1H2    G A  21      45.418 -22.695 -10.721  1.00  0.00              
+ATOM    675 2H2    G A  21      45.759 -23.655 -12.143  1.00  0.00              
+ATOM    676  C1*   A A  22      46.938 -20.563  -6.566  1.00  0.00              
+ATOM    677  C2*   A A  22      45.911 -20.961  -7.626  1.00  0.00              
+ATOM    678  C3*   A A  22      44.617 -20.460  -6.998  1.00  0.00              
+ATOM    679  C4*   A A  22      45.040 -19.211  -6.293  1.00  0.00              
+ATOM    680  C5*   A A  22      44.160 -18.789  -5.141  1.00  0.00              
+ATOM    681  H1*   A A  22      47.858 -20.258  -7.064  1.00  0.00              
+ATOM    682  H2*   A A  22      45.875 -22.022  -7.872  1.00  0.00              
+ATOM    683  H3*   A A  22      43.912 -21.249  -7.258  1.00  0.00              
+ATOM    684  H4*   A A  22      44.984 -18.373  -6.987  1.00  0.00              
+ATOM    685  O1P   A A  22      40.161 -21.690  -4.746  1.00  0.00              
+ATOM    686  O2*   A A  22      46.214 -20.320  -8.850  1.00  0.00              
+ATOM    687  O2P   A A  22      41.906 -21.268  -2.912  1.00  0.00              
+ATOM    688  O3*   A A  22      45.033 -17.587  -5.706  1.00  0.00              
+ATOM    689  O4*   A A  22      46.370 -19.516  -5.797  1.00  0.00              
+ATOM    690  O5*   A A  22      42.174 -20.291  -5.193  1.00  0.00              
+ATOM    691  P     A A  22      41.576 -21.497  -4.342  1.00  0.00              
+ATOM    692 1H5*   A A  22      43.857 -17.748  -5.250  1.00  0.00              
+ATOM    693 2H5*   A A  22      44.692 -18.888  -4.195  1.00  0.00              
+ATOM    694 HO2*   A A  22      45.563 -20.577  -9.507  1.00  0.00              
+ATOM    695  C2    A A  22      48.127 -24.720  -7.236  1.00  0.00              
+ATOM    696  C4    A A  22      47.626 -22.951  -6.030  1.00  0.00              
+ATOM    697  C5    A A  22      47.829 -23.634  -4.844  1.00  0.00              
+ATOM    698  C6    A A  22      48.216 -24.981  -4.941  1.00  0.00              
+ATOM    699  C8    A A  22      47.266 -21.658  -4.296  1.00  0.00              
+ATOM    700  H2    A A  22      48.256 -25.192  -8.199  1.00  0.00              
+ATOM    701  H8    A A  22      47.017 -20.781  -3.716  1.00  0.00              
+ATOM    702  N1    A A  22      48.359 -25.504  -6.179  1.00  0.00              
+ATOM    703  N3    A A  22      47.759 -23.441  -7.274  1.00  0.00              
+ATOM    704  N6    A A  22      48.448 -25.763  -3.884  1.00  0.00              
+ATOM    705  N7    A A  22      47.598 -22.804  -3.754  1.00  0.00              
+ATOM    706  N9    A A  22      47.262 -21.675  -5.670  1.00  0.00              
+ATOM    707 1H6    A A  22      48.723 -26.726  -4.019  1.00  0.00              
+ATOM    708 2H6    A A  22      48.347 -25.393  -2.950  1.00  0.00              
+ATOM    709  C1*   U A  23      40.487 -14.676  -9.275  1.00  0.00              
+ATOM    710  C2*   U A  23      40.894 -14.850 -10.738  1.00  0.00              
+ATOM    711  C3*   U A  23      42.380 -15.156 -10.604  1.00  0.00              
+ATOM    712  C4*   U A  23      42.522 -15.842  -9.308  1.00  0.00              
+ATOM    713  C5*   U A  23      43.899 -15.783  -8.692  1.00  0.00              
+ATOM    714  H1*   U A  23      39.570 -15.238  -9.096  1.00  0.00              
+ATOM    715  H2*   U A  23      40.700 -13.995 -11.387  1.00  0.00              
+ATOM    716  H3*   U A  23      43.243 -14.571 -10.920  1.00  0.00              
+ATOM    717  H4*   U A  23      42.353 -16.914  -9.417  1.00  0.00              
+ATOM    718  O1P   U A  23      46.317 -15.575  -6.375  1.00  0.00              
+ATOM    719  O2*   U A  23      40.162 -15.913 -11.316  1.00  0.00              
+ATOM    720  O2P   U A  23      45.254 -17.104  -8.142  1.00  0.00              
+ATOM    721  O3*   U A  23      40.525 -17.416 -11.342  1.00  0.00              
+ATOM    722  O4*   U A  23      41.564 -15.135  -8.477  1.00  0.00              
+ATOM    723  O5*   U A  23      43.848 -15.619  -6.713  1.00  0.00              
+ATOM    724  P     U A  23      45.201 -16.454  -6.808  1.00  0.00              
+ATOM    725 1H5*   U A  23      44.436 -14.930  -9.105  1.00  0.00              
+ATOM    726 2H5*   U A  23      44.446 -16.688  -8.958  1.00  0.00              
+ATOM    727 HO2*   U A  23      40.426 -16.012 -12.233  1.00  0.00              
+ATOM    728  C2    U A  23      38.961 -12.896  -8.527  1.00  0.00              
+ATOM    729  C4    U A  23      39.799 -10.587  -8.322  1.00  0.00              
+ATOM    730  C5    U A  23      41.077 -11.059  -8.758  1.00  0.00              
+ATOM    731  C6    U A  23      41.242 -12.355  -9.045  1.00  0.00              
+ATOM    732  H3    U A  23      37.837 -11.232  -7.911  1.00  0.00              
+ATOM    733  H5    U A  23      41.913 -10.366  -8.855  1.00  0.00              
+ATOM    734  H6    U A  23      42.214 -12.694  -9.371  1.00  0.00              
+ATOM    735  N1    U A  23      40.223 -13.274  -8.941  1.00  0.00              
+ATOM    736  N3    U A  23      38.823 -11.560  -8.240  1.00  0.00              
+ATOM    737  O2    U A  23      38.037 -13.682  -8.424  1.00  0.00              
+ATOM    738  O4    U A  23      39.520  -9.424  -8.028  1.00  0.00              
+ATOM    739  C1*   G A  24      39.716 -18.805 -17.047  1.00  0.00              
+ATOM    740  C2*   G A  24      38.535 -18.039 -17.643  1.00  0.00              
+ATOM    741  C3*   G A  24      38.247 -17.025 -16.544  1.00  0.00              
+ATOM    742  C4*   G A  24      39.547 -16.765 -15.902  1.00  0.00              
+ATOM    743  C5*   G A  24      39.478 -16.233 -14.491  1.00  0.00              
+ATOM    744  H1*   G A  24      40.489 -18.909 -17.809  1.00  0.00              
+ATOM    745  H2*   G A  24      37.662 -18.641 -17.897  1.00  0.00              
+ATOM    746  H3*   G A  24      37.695 -16.682 -15.669  1.00  0.00              
+ATOM    747  H4*   G A  24      40.089 -15.979 -16.429  1.00  0.00              
+ATOM    748  O1P   G A  24      42.107 -18.988 -12.423  1.00  0.00              
+ATOM    749  O2*   G A  24      38.922 -17.436 -18.862  1.00  0.00              
+ATOM    750  O2P   G A  24      39.672 -18.820 -13.218  1.00  0.00              
+ATOM    751  O3*   G A  24      37.426 -17.016 -19.282  1.00  0.00              
+ATOM    752  O4*   G A  24      40.168 -18.077 -15.918  1.00  0.00              
+ATOM    753  O5*   G A  24      41.308 -16.995 -13.688  1.00  0.00              
+ATOM    754  P     G A  24      40.899 -18.168 -12.691  1.00  0.00              
+ATOM    755 1H5*   G A  24      38.607 -16.611 -13.954  1.00  0.00              
+ATOM    756 2H5*   G A  24      39.442 -15.144 -14.465  1.00  0.00              
+ATOM    757 HO2*   G A  24      38.173 -16.959 -19.226  1.00  0.00              
+ATOM    758  C2    G A  24      40.517 -22.744 -18.705  1.00  0.00              
+ATOM    759  C4    G A  24      39.653 -21.337 -17.228  1.00  0.00              
+ATOM    760  C5    G A  24      39.076 -22.320 -16.451  1.00  0.00              
+ATOM    761  C6    G A  24      39.231 -23.676 -16.837  1.00  0.00              
+ATOM    762  C8    G A  24      38.589 -20.477 -15.504  1.00  0.00              
+ATOM    763  H1    G A  24      40.149 -24.726 -18.356  1.00  0.00              
+ATOM    764  H8    G A  24      38.192 -19.744 -14.817  1.00  0.00              
+ATOM    765  N1    G A  24      39.983 -23.795 -18.001  1.00  0.00              
+ATOM    766  N2    G A  24      41.213 -23.063 -19.806  1.00  0.00              
+ATOM    767  N3    G A  24      40.379 -21.476 -18.357  1.00  0.00              
+ATOM    768  N7    G A  24      38.409 -21.763 -15.368  1.00  0.00              
+ATOM    769  N9    G A  24      39.335 -20.151 -16.611  1.00  0.00              
+ATOM    770  O6    G A  24      38.795 -24.691 -16.278  1.00  0.00              
+ATOM    771 1H2    G A  24      41.631 -22.336 -20.368  1.00  0.00              
+ATOM    772 2H2    G A  24      41.319 -24.032 -20.073  1.00  0.00              
+ATOM    773  C1*   A A  25      37.660 -21.817 -22.118  1.00  0.00              
+ATOM    774  C2*   A A  25      36.642 -21.993 -23.245  1.00  0.00              
+ATOM    775  C3*   A A  25      35.819 -20.718 -23.109  1.00  0.00              
+ATOM    776  C4*   A A  25      36.860 -19.693 -22.710  1.00  0.00              
+ATOM    777  C5*   A A  25      36.340 -18.518 -21.918  1.00  0.00              
+ATOM    778  H1*   A A  25      38.595 -22.296 -22.410  1.00  0.00              
+ATOM    779  H2*   A A  25      36.031 -22.894 -23.192  1.00  0.00              
+ATOM    780  H3*   A A  25      34.980 -20.759 -22.414  1.00  0.00              
+ATOM    781  H4*   A A  25      37.272 -19.249 -23.616  1.00  0.00              
+ATOM    782  O1P   A A  25      35.297 -18.272 -19.466  1.00  0.00              
+ATOM    783  O2*   A A  25      37.313 -22.085 -24.486  1.00  0.00              
+ATOM    784  O2P   A A  25      36.126 -16.802 -21.399  1.00  0.00              
+ATOM    785  O3*   A A  25      35.340 -20.417 -24.477  1.00  0.00              
+ATOM    786  O4*   A A  25      37.813 -20.426 -21.897  1.00  0.00              
+ATOM    787  O5*   A A  25      37.248 -18.963 -20.853  1.00  0.00              
+ATOM    788  P     A A  25      36.416 -17.732 -20.279  1.00  0.00              
+ATOM    789 1H5*   A A  25      35.279 -18.551 -21.672  1.00  0.00              
+ATOM    790 2H5*   A A  25      36.558 -17.536 -22.339  1.00  0.00              
+ATOM    791 HO2*   A A  25      36.665 -22.195 -25.185  1.00  0.00              
+ATOM    792  C2    A A  25      37.862 -25.896 -20.547  1.00  0.00              
+ATOM    793  C4    A A  25      37.345 -23.759 -20.507  1.00  0.00              
+ATOM    794  C5    A A  25      36.773 -23.864 -19.252  1.00  0.00              
+ATOM    795  C6    A A  25      36.783 -25.134 -18.649  1.00  0.00              
+ATOM    796  C8    A A  25      36.570 -21.826 -19.822  1.00  0.00              
+ATOM    797  H2    A A  25      38.299 -26.745 -21.050  1.00  0.00              
+ATOM    798  H8    A A  25      36.322 -20.775 -19.816  1.00  0.00              
+ATOM    799  N1    A A  25      37.348 -26.150 -19.339  1.00  0.00              
+ATOM    800  N3    A A  25      37.913 -24.748 -21.218  1.00  0.00              
+ATOM    801  N6    A A  25      36.269 -25.386 -17.444  1.00  0.00              
+ATOM    802  N7    A A  25      36.286 -22.634 -18.830  1.00  0.00              
+ATOM    803  N9    A A  25      37.211 -22.440 -20.870  1.00  0.00              
+ATOM    804 1H6    A A  25      36.306 -26.321 -17.064  1.00  0.00              
+ATOM    805 2H6    A A  25      35.842 -24.642 -16.911  1.00  0.00              
+ATOM    806  C1*   A A  26      34.970 -25.779 -24.693  1.00  0.00              
+ATOM    807  C2*   A A  26      33.939 -26.586 -25.483  1.00  0.00              
+ATOM    808  C3*   A A  26      33.030 -25.483 -26.010  1.00  0.00              
+ATOM    809  C4*   A A  26      34.008 -24.358 -26.293  1.00  0.00              
+ATOM    810  C5*   A A  26      33.429 -22.965 -26.225  1.00  0.00              
+ATOM    811  H1*   A A  26      35.926 -26.300 -24.728  1.00  0.00              
+ATOM    812  H2*   A A  26      33.396 -27.341 -24.915  1.00  0.00              
+ATOM    813  H3*   A A  26      32.261 -25.162 -25.308  1.00  0.00              
+ATOM    814  H4*   A A  26      34.359 -24.458 -27.320  1.00  0.00              
+ATOM    815  O1P   A A  26      33.061 -20.515 -23.506  1.00  0.00              
+ATOM    816  O2*   A A  26      34.584 -27.307 -26.514  1.00  0.00              
+ATOM    817  O2P   A A  26      33.403 -20.110 -26.017  1.00  0.00              
+ATOM    818  O3*   A A  26      32.244 -25.872 -27.020  1.00  0.00              
+ATOM    819  O4*   A A  26      35.037 -24.490 -25.277  1.00  0.00              
+ATOM    820  O5*   A A  26      33.831 -22.351 -25.005  1.00  0.00              
+ATOM    821  P     A A  26      33.817 -20.777 -24.757  1.00  0.00              
+ATOM    822 1H5*   A A  26      32.341 -23.012 -26.276  1.00  0.00              
+ATOM    823 2H5*   A A  26      33.781 -22.375 -27.072  1.00  0.00              
+ATOM    824 HO2*   A A  26      33.928 -27.809 -27.002  1.00  0.00              
+ATOM    825  C2    A A  26      34.904 -28.531 -21.293  1.00  0.00              
+ATOM    826  C4    A A  26      34.623 -26.605 -22.313  1.00  0.00              
+ATOM    827  C5    A A  26      34.178 -25.993 -21.155  1.00  0.00              
+ATOM    828  C6    A A  26      34.117 -26.786 -19.997  1.00  0.00              
+ATOM    829  C8    A A  26      34.132 -24.497 -22.665  1.00  0.00              
+ATOM    830  H2    A A  26      35.194 -29.572 -21.317  1.00  0.00              
+ATOM    831  H8    A A  26      33.998 -23.556 -23.179  1.00  0.00              
+ATOM    832  N1    A A  26      34.496 -28.079 -20.102  1.00  0.00              
+ATOM    833  N3    A A  26      35.006 -27.885 -22.452  1.00  0.00              
+ATOM    834  N6    A A  26      33.709 -26.334 -18.809  1.00  0.00              
+ATOM    835  N7    A A  26      33.871 -24.660 -21.391  1.00  0.00              
+ATOM    836  N9    A A  26      34.591 -25.633 -23.285  1.00  0.00              
+ATOM    837 1H6    A A  26      33.688 -26.954 -18.012  1.00  0.00              
+ATOM    838 2H6    A A  26      33.422 -25.371 -18.707  1.00  0.00              
+ATOM    839  C1*   C A  27      31.489 -29.732 -24.163  1.00  0.00              
+ATOM    840  C2*   C A  27      30.217 -30.574 -24.263  1.00  0.00              
+ATOM    841  C3*   C A  27      29.514 -29.921 -25.447  1.00  0.00              
+ATOM    842  C4*   C A  27      30.598 -29.418 -26.310  1.00  0.00              
+ATOM    843  C5*   C A  27      30.212 -28.298 -27.247  1.00  0.00              
+ATOM    844  H1*   C A  27      32.343 -30.397 -24.041  1.00  0.00              
+ATOM    845  H2*   C A  27      29.595 -30.598 -23.368  1.00  0.00              
+ATOM    846  H3*   C A  27      28.978 -28.991 -25.636  1.00  0.00              
+ATOM    847  H4*   C A  27      30.939 -30.197 -26.992  1.00  0.00              
+ATOM    848  O1P   C A  27      30.217 -25.036 -25.863  1.00  0.00              
+ATOM    849  O2*   C A  27      30.556 -31.926 -24.502  1.00  0.00              
+ATOM    850  O2P   C A  27      30.044 -26.188 -28.150  1.00  0.00              
+ATOM    851  O3*   C A  27      28.189 -30.893 -25.533  1.00  0.00              
+ATOM    852  O4*   C A  27      31.577 -28.954 -25.344  1.00  0.00              
+ATOM    853  O5*   C A  27      30.571 -27.492 -26.089  1.00  0.00              
+ATOM    854  P     C A  27      30.682 -26.078 -26.813  1.00  0.00              
+ATOM    855 1H5*   C A  27      29.167 -28.264 -27.557  1.00  0.00              
+ATOM    856 2H5*   C A  27      30.831 -28.174 -28.135  1.00  0.00              
+ATOM    857 HO2*   C A  27      29.750 -32.444 -24.563  1.00  0.00              
+ATOM    858  C2    C A  27      31.375 -29.327 -21.709  1.00  0.00              
+ATOM    859  C4    C A  27      31.407 -27.148 -20.894  1.00  0.00              
+ATOM    860  C5    C A  27      31.493 -26.612 -22.211  1.00  0.00              
+ATOM    861  C6    C A  27      31.517 -27.479 -23.230  1.00  0.00              
+ATOM    862  H5    C A  27      31.538 -25.536 -22.381  1.00  0.00              
+ATOM    863  H6    C A  27      31.582 -27.108 -24.242  1.00  0.00              
+ATOM    864  N1    C A  27      31.459 -28.828 -23.010  1.00  0.00              
+ATOM    865  N3    C A  27      31.351 -28.462 -20.669  1.00  0.00              
+ATOM    866  N4    C A  27      31.379 -26.331 -19.837  1.00  0.00              
+ATOM    867  O2    C A  27      31.323 -30.555 -21.541  1.00  0.00              
+ATOM    868 1H4    C A  27      31.420 -25.331 -19.971  1.00  0.00              
+ATOM    869 2H4    C A  27      31.318 -26.714 -18.904  1.00  0.00              
+ATOM    870  C1*   C A  28      28.977 -33.473 -20.501  1.00  0.00              
+ATOM    871  C2*   C A  28      28.093 -34.736 -20.388  1.00  0.00              
+ATOM    872  C3*   C A  28      27.435 -34.834 -21.763  1.00  0.00              
+ATOM    873  C4*   C A  28      28.537 -34.303 -22.681  1.00  0.00              
+ATOM    874  C5*   C A  28      28.007 -33.691 -23.984  1.00  0.00              
+ATOM    875  H1*   C A  28      29.882 -33.614 -19.910  1.00  0.00              
+ATOM    876  H2*   C A  28      27.364 -34.687 -19.579  1.00  0.00              
+ATOM    877  H3*   C A  28      26.493 -34.287 -21.804  1.00  0.00              
+ATOM    878  H4*   C A  28      29.172 -35.129 -23.003  1.00  0.00              
+ATOM    879  O1P   C A  28      26.220 -30.305 -24.146  1.00  0.00              
+ATOM    880  O2*   C A  28      28.907 -35.877 -20.126  1.00  0.00              
+ATOM    881  O2P   C A  28      26.095 -32.205 -25.868  1.00  0.00              
+ATOM    882  O3*   C A  28      27.036 -36.185 -22.134  1.00  0.00              
+ATOM    883  O4*   C A  28      29.265 -33.326 -21.913  1.00  0.00              
+ATOM    884  O5*   C A  28      27.391 -32.468 -23.752  1.00  0.00              
+ATOM    885  P     C A  28      26.863 -31.443 -24.850  1.00  0.00              
+ATOM    886 1H5*   C A  28      27.375 -34.415 -24.499  1.00  0.00              
+ATOM    887 2H5*   C A  28      28.841 -33.445 -24.641  1.00  0.00              
+ATOM    888 HO2*   C A  28      28.346 -36.652 -20.058  1.00  0.00              
+ATOM    889  C2    C A  28      28.306 -32.127 -18.496  1.00  0.00              
+ATOM    890  C4    C A  28      27.430 -29.987 -18.767  1.00  0.00              
+ATOM    891  C5    C A  28      27.544 -30.074 -20.184  1.00  0.00              
+ATOM    892  C6    C A  28      28.044 -31.206 -20.695  1.00  0.00              
+ATOM    893  H5    C A  28      27.236 -29.251 -20.828  1.00  0.00              
+ATOM    894  H6    C A  28      28.145 -31.307 -21.766  1.00  0.00              
+ATOM    895  N1    C A  28      28.429 -32.237 -19.883  1.00  0.00              
+ATOM    896  N3    C A  28      27.803 -30.987 -17.966  1.00  0.00              
+ATOM    897  N4    C A  28      26.938 -28.883 -18.200  1.00  0.00              
+ATOM    898  O2    C A  28      28.662 -33.078 -17.785  1.00  0.00              
+ATOM    899 1H4    C A  28      26.646 -28.106 -18.776  1.00  0.00              
+ATOM    900 2H4    C A  28      26.858 -28.824 -17.195  1.00  0.00              
+ATOM    901  C1*   G A  29      26.280 -35.447 -16.629  1.00  0.00              
+ATOM    902  C2*   G A  29      25.363 -36.377 -15.835  1.00  0.00              
+ATOM    903  C3*   G A  29      24.882 -37.328 -16.923  1.00  0.00              
+ATOM    904  C4*   G A  29      26.087 -37.466 -17.807  1.00  0.00              
+ATOM    905  C5*   G A  29      25.800 -37.849 -19.239  1.00  0.00              
+ATOM    906  H1*   G A  29      27.113 -35.147 -15.992  1.00  0.00              
+ATOM    907  H2*   G A  29      24.540 -35.892 -15.309  1.00  0.00              
+ATOM    908  H3*   G A  29      23.990 -36.963 -17.433  1.00  0.00              
+ATOM    909  H4*   G A  29      26.708 -38.281 -17.433  1.00  0.00              
+ATOM    910  O1P   G A  29      24.598 -35.779 -22.326  1.00  0.00              
+ATOM    911  O2*   G A  29      26.103 -37.029 -14.821  1.00  0.00              
+ATOM    912  O2P   G A  29      25.545 -38.163 -22.422  1.00  0.00              
+ATOM    913  O3*   G A  29      24.547 -38.621 -16.371  1.00  0.00              
+ATOM    914  O4*   G A  29      26.710 -36.155 -17.779  1.00  0.00              
+ATOM    915  O5*   G A  29      25.497 -36.882 -20.280  1.00  0.00              
+ATOM    916  P     G A  29      25.589 -36.786 -21.868  1.00  0.00              
+ATOM    917 1H5*   G A  29      24.953 -38.535 -19.206  1.00  0.00              
+ATOM    918 2H5*   G A  29      26.671 -38.405 -19.585  1.00  0.00              
+ATOM    919 HO2*   G A  29      25.516 -37.609 -14.330  1.00  0.00              
+ATOM    920  C2    G A  29      24.383 -32.225 -14.412  1.00  0.00              
+ATOM    921  C4    G A  29      25.022 -33.273 -16.255  1.00  0.00              
+ATOM    922  C5    G A  29      24.497 -32.332 -17.116  1.00  0.00              
+ATOM    923  C6    G A  29      23.835 -31.202 -16.572  1.00  0.00              
+ATOM    924  C8    G A  29      25.377 -33.821 -18.357  1.00  0.00              
+ATOM    925  H1    G A  29      23.377 -30.466 -14.701  1.00  0.00              
+ATOM    926  H8    G A  29      25.713 -34.377 -19.219  1.00  0.00              
+ATOM    927  N1    G A  29      23.827 -31.232 -15.181  1.00  0.00              
+ATOM    928  N2    G A  29      24.270 -32.074 -13.084  1.00  0.00              
+ATOM    929  N3    G A  29      25.001 -33.284 -14.906  1.00  0.00              
+ATOM    930  N7    G A  29      24.729 -32.691 -18.437  1.00  0.00              
+ATOM    931  N9    G A  29      25.588 -34.231 -17.062  1.00  0.00              
+ATOM    932  O6    G A  29      23.305 -30.258 -17.172  1.00  0.00              
+ATOM    933 1H2    G A  29      24.658 -32.769 -12.462  1.00  0.00              
+ATOM    934 2H2    G A  29      23.798 -31.265 -12.706  1.00  0.00              
+ATOM    935  C1*   U A  30      22.923 -35.140 -12.400  1.00  0.00              
+ATOM    936  C2*   U A  30      22.020 -35.616 -11.262  1.00  0.00              
+ATOM    937  C3*   U A  30      21.820 -37.081 -11.628  1.00  0.00              
+ATOM    938  C4*   U A  30      23.128 -37.471 -12.229  1.00  0.00              
+ATOM    939  C5*   U A  30      23.082 -38.651 -13.170  1.00  0.00              
+ATOM    940  H1*   U A  30      23.647 -34.429 -12.002  1.00  0.00              
+ATOM    941  H2*   U A  30      21.078 -35.079 -11.152  1.00  0.00              
+ATOM    942  H3*   U A  30      20.763 -36.956 -11.861  1.00  0.00              
+ATOM    943  H4*   U A  30      23.806 -37.794 -11.440  1.00  0.00              
+ATOM    944  O1P   U A  30      22.087 -38.410 -16.598  1.00  0.00              
+ATOM    945  O2*   U A  30      22.680 -35.443 -10.024  1.00  0.00              
+ATOM    946  O2P   U A  30      23.119 -40.224 -15.103  1.00  0.00              
+ATOM    947  O3*   U A  30      22.255 -38.429 -10.921  1.00  0.00              
+ATOM    948  O4*   U A  30      23.544 -36.286 -12.957  1.00  0.00              
+ATOM    949  O5*   U A  30      23.171 -37.820 -14.433  1.00  0.00              
+ATOM    950  P     U A  30      23.147 -38.845 -15.653  1.00  0.00              
+ATOM    951 1H5*   U A  30      22.159 -39.227 -13.096  1.00  0.00              
+ATOM    952 2H5*   U A  30      23.919 -39.337 -13.043  1.00  0.00              
+ATOM    953 HO2*   U A  30      22.104 -35.745  -9.318  1.00  0.00              
+ATOM    954  C2    U A  30      21.466 -33.308 -13.161  1.00  0.00              
+ATOM    955  C4    U A  30      20.748 -33.228 -15.516  1.00  0.00              
+ATOM    956  C5    U A  30      21.497 -34.425 -15.740  1.00  0.00              
+ATOM    957  C6    U A  30      22.165 -34.987 -14.727  1.00  0.00              
+ATOM    958  H3    U A  30      20.229 -31.843 -14.017  1.00  0.00              
+ATOM    959  H5    U A  30      21.524 -34.877 -16.732  1.00  0.00              
+ATOM    960  H6    U A  30      22.727 -35.891 -14.914  1.00  0.00              
+ATOM    961  N1    U A  30      22.166 -34.462 -13.455  1.00  0.00              
+ATOM    962  N3    U A  30      20.791 -32.754 -14.221  1.00  0.00              
+ATOM    963  O2    U A  30      21.445 -32.815 -12.047  1.00  0.00              
+ATOM    964  O4    U A  30      20.095 -32.615 -16.362  1.00  0.00              
+ATOM    965  C1*   U A  31      18.232 -35.050  -9.688  1.00  0.00              
+ATOM    966  C2*   U A  31      16.965 -35.463  -8.937  1.00  0.00              
+ATOM    967  C3*   U A  31      17.090 -36.981  -8.944  1.00  0.00              
+ATOM    968  C4*   U A  31      18.538 -37.253  -8.942  1.00  0.00              
+ATOM    969  C5*   U A  31      18.942 -38.608  -9.472  1.00  0.00              
+ATOM    970  H1*   U A  31      18.719 -34.245  -9.139  1.00  0.00              
+ATOM    971  H2*   U A  31      16.026 -35.118  -9.371  1.00  0.00              
+ATOM    972  H3*   U A  31      16.856 -37.662  -9.762  1.00  0.00              
+ATOM    973  H4*   U A  31      18.927 -37.267  -7.924  1.00  0.00              
+ATOM    974  O1P   U A  31      20.458 -39.623 -12.142  1.00  0.00              
+ATOM    975  O2*   U A  31      16.981 -34.915  -7.634  1.00  0.00              
+ATOM    976  O2P   U A  31      21.117 -40.320  -9.761  1.00  0.00              
+ATOM    977  O3*   U A  31      16.062 -37.364  -8.007  1.00  0.00              
+ATOM    978  O4*   U A  31      19.052 -36.200  -9.799  1.00  0.00              
+ATOM    979  O5*   U A  31      19.869 -38.200 -10.183  1.00  0.00              
+ATOM    980  P     U A  31      20.905 -39.255 -10.775  1.00  0.00              
+ATOM    981 1H5*   U A  31      18.152 -39.099 -10.039  1.00  0.00              
+ATOM    982 2H5*   U A  31      19.272 -39.293  -8.690  1.00  0.00              
+ATOM    983 HO2*   U A  31      16.182 -35.180  -7.173  1.00  0.00              
+ATOM    984  C2    U A  31      17.350 -33.318 -11.197  1.00  0.00              
+ATOM    985  C4    U A  31      17.426 -33.671 -13.632  1.00  0.00              
+ATOM    986  C5    U A  31      17.999 -34.962 -13.388  1.00  0.00              
+ATOM    987  C6    U A  31      18.247 -35.337 -12.127  1.00  0.00              
+ATOM    988  H3    U A  31      16.653 -31.974 -12.648  1.00  0.00              
+ATOM    989  H5    U A  31      18.230 -35.630 -14.218  1.00  0.00              
+ATOM    990  H6    U A  31      18.713 -36.297 -11.958  1.00  0.00              
+ATOM    991  N1    U A  31      17.936 -34.557 -11.035  1.00  0.00              
+ATOM    992  N3    U A  31      17.123 -32.946 -12.495  1.00  0.00              
+ATOM    993  O2    U A  31      17.039 -32.618 -10.253  1.00  0.00              
+ATOM    994  O4    U A  31      17.202 -33.205 -14.747  1.00  0.00              
+ATOM    995  C1*   C A  32      13.320 -33.240  -9.662  1.00  0.00              
+ATOM    996  C2*   C A  32      11.834 -32.985  -9.409  1.00  0.00              
+ATOM    997  C3*   C A  32      11.407 -34.298  -8.768  1.00  0.00              
+ATOM    998  C4*   C A  32      12.599 -34.722  -7.993  1.00  0.00              
+ATOM    999  C5*   C A  32      12.686 -36.200  -7.696  1.00  0.00              
+ATOM   1000  H1*   C A  32      13.876 -32.330  -9.438  1.00  0.00              
+ATOM   1001  H2*   C A  32      11.242 -32.736 -10.290  1.00  0.00              
+ATOM   1002  H3*   C A  32      11.104 -35.045  -9.501  1.00  0.00              
+ATOM   1003  H4*   C A  32      12.578 -34.265  -7.004  1.00  0.00              
+ATOM   1004  O1P   C A  32      14.141 -38.709  -7.188  1.00  0.00              
+ATOM   1005  O2*   C A  32      11.679 -31.875  -8.547  1.00  0.00              
+ATOM   1006  O2P   C A  32      14.657 -38.638  -9.705  1.00  0.00              
+ATOM   1007  O3*   C A  32      10.262 -34.121  -7.927  1.00  0.00              
+ATOM   1008  O4*   C A  32      13.710 -34.325  -8.839  1.00  0.00              
+ATOM   1009  O5*   C A  32      13.730 -36.668  -8.554  1.00  0.00              
+ATOM   1010  P     C A  32      14.628 -37.974  -8.383  1.00  0.00              
+ATOM   1011 1H5*   C A  32      11.743 -36.702  -7.913  1.00  0.00              
+ATOM   1012 2H5*   C A  32      12.928 -36.378  -6.648  1.00  0.00              
+ATOM   1013 HO2*   C A  32      10.743 -31.725  -8.396  1.00  0.00              
+ATOM   1014  C2    C A  32      13.302 -32.711 -12.111  1.00  0.00              
+ATOM   1015  C4    C A  32      14.145 -34.244 -13.649  1.00  0.00              
+ATOM   1016  C5    C A  32      14.409 -35.176 -12.600  1.00  0.00              
+ATOM   1017  C6    C A  32      14.126 -34.814 -11.333  1.00  0.00              
+ATOM   1018  H5    C A  32      14.830 -36.157 -12.819  1.00  0.00              
+ATOM   1019  H6    C A  32      14.329 -35.501 -10.525  1.00  0.00              
+ATOM   1020  N1    C A  32      13.587 -33.594 -11.058  1.00  0.00              
+ATOM   1021  N3    C A  32      13.583 -33.065 -13.378  1.00  0.00              
+ATOM   1022  N4    C A  32      14.435 -34.531 -14.926  1.00  0.00              
+ATOM   1023  O2    C A  32      12.765 -31.635 -11.823  1.00  0.00              
+ATOM   1024 1H4    C A  32      14.855 -35.419 -15.161  1.00  0.00              
+ATOM   1025 2H4    C A  32      14.233 -33.859 -15.653  1.00  0.00              
+TER    1026        C A  32                                                      
+END                                                                             

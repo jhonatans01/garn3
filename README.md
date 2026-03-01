@@ -55,7 +55,7 @@ Output 11 files : GARN*‹Name of molecule›\_0.csv, .. , & GARN*‹Name of mol
 
 ## Calculate RMSD between predicted molecules
 
-To compute the RMSD between GARN files (compare to one file): `java -jar ./GARN3.jar GAME ‹Name of molecule› ‹Fasta File› ‹Number of solutions› ‹GARN file of native structure›`
+To compute the RMSD between GARN files (compare to one file): `java -jar ./GARN3.jar GAME ‹Name of molecule› ‹GARN file of molecule 1› ‹GARN file of molecule 2› ...`
 
 Example:
 
@@ -65,6 +65,18 @@ java -jar ./GARN3.jar RMSD 1E8O 1E8O_GARN.csv GARN_1E8O_1.csv GARN_1E8O_2.csv GA
 
 Output 1 file: ‹Name of molecule›\_rmsd.csv with the RMSD between the first file and others files.
 
+## Calculate TM-Score between predicted molecules
+
+To compute the TM-Score between GARN files (compare to one file): `java -jar ./GARN3.jar TMSCORE ‹Name of molecule› ‹GARN file of molecule 1› ‹GARN file of molecule 2› ...`
+
+Example:
+
+```shell
+java -jar ./GARN3.jar TMSCORE 1E8O 1E8O_GARN.csv GARN_1E8O_1.csv GARN_1E8O_2.csv GARN_1E8O_3.csv GARN_1E8O_4.csv
+```
+
+Output 1 file: ‹Name of molecule›\_tmscore.csv with the RMSD between the first file and others files.
+
 ## Calculate minimum and maximum distance
 
 To compute the maximum distance in structure and sort the sampling:
@@ -73,9 +85,46 @@ To compute the maximum distance in structure and sort the sampling:
 Example:
 
 ```shell
-java -jar ./GARN3.jar SORT GARN_1E8O_1.csv GARN_1E8O_2.csv GARN_1E8O_3.csv GARN_1E8O_4.csv
+java -jar ./GARN3.jar SORT 1E8O GARN_1E8O_1.csv GARN_1E8O_2.csv GARN_1E8O_3.csv GARN_1E8O_4.csv
 ```
 
 Output 1 file: ‹‹Name of molecule››\_sort.csv with the maximum distance for each solution.
+
+## Generate PDB/align/PyMOL outputs from GARN CSVs
+
+To reproduce the GARNTOPDB flow:
+
+`java -jar ./GARN3.jar GARNTOPDB [‹Full PDB file› ‹listNucleo.csv file›] ‹game1.csv› [game2.csv ...]`
+
+Modes:
+
+1. With PDB reference (using some full-atom experimental structure):
+
+```shell
+java -jar ./GARN3.jar GARNTOPDB 1E8O.pdb 1E8O_listNucleo.csv GARN_1E8O_0.csv GARN_1E8O_1.csv
+```
+
+2. Without PDB reference (first game file is used as reference):
+
+```shell
+java -jar ./GARN3.jar GARNTOPDB 1E8O_GARN.csv GARN_1E8O_0.csv GARN_1E8O_1.csv
+```
+
+Example:
+
+```shell
+java -jar ./GARN3.jar GARNTOPDB 1E8O.pdb 1E8O_listNucleo.csv 1E8O_GARN.csv GARN_1E8O_0.csv
+```
+
+Generated files:
+
+1. `GARN_*.pdb`: PDB files generated from game CSVs.
+2. `<reference>.align`: RMS alignment output for each generated structure against the selected reference.
+3. If full reference mode is used:
+   `*_CG.pdb`: reduced coarse-grained reference structure.
+4. If full reference mode and PyMOL are available:
+   `*_CG.pse`: optional PyMOL session file.
+
+## Contacts
 
 When in doubt, you can contact jhonatansilva@usp.br or daniel.cordeiro@usp.br

@@ -58,7 +58,6 @@ REMARK 210                                   0.5 MM EDTA; 1MM UNLABELED
 REMARK 210                                   PK1, 50MM NACL, 0.5 MM EDTA        
 REMARK 210                                                                      
 REMARK 210  NMR EXPERIMENTS CONDUCTED      : 2D NOESY, HCN, 1H 13C HSQC,        
-REMARK 210                                   1H 13C CONSTANT TIME HSQC, 1H      
 REMARK 210                                   13C LONG-RANGE HSQC, HCCH-         
 REMARK 210                                   TOCSY, HCCH E.COSY, HCC-TOCSY-     
 REMARK 210                                   CCH-E.COSY, 3D NOESY-HSQC,         

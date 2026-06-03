@@ -25,37 +25,50 @@ Output two files : ‹Name of molecule›\_GARN.csv with the position of nodes i
 
 ## Predict molecules (run simulations)
 
-To run the simualations and compute the sampling space:
-`java -jar ./GARN3.jar GAME ‹Name of molecule› ‹Fasta File› ‹Number of solutions›`
+To run the simulations and compute the sampling space:
+`java -jar ./GARN3.jar GAME ‹Name of molecule› ‹Fasta File› ‹Number of solutions› [‹nbTour›] [EXP3|UCB] [‹GARN file of native structure›]`
 
-Example:
+Notes:
+- `nbTour` (optional): numeric override for the number of rounds per game. If omitted the program uses a default of 500 rounds (for large RNAs with >=100 players the default becomes 300). The value is parsed as a number (double) so integers like `500` or `750` are fine.
+- Argument order: `numberTest` then optional `nbTour`, then optional algorithm (`EXP3` or `UCB`), then optional reference GARN file for RMSD.
+
+Simple example (no override):
 
 ```shell
 java -jar ./GARN3.jar GAME 1E8O 1E8O_fasta.txt 10
 ```
 
-Output 10 files : GARN*‹Name of molecule›\_0.csv, GARN*‹Name of molecule›_1.csv, ..., GARN_‹Name of molecule›\_9.csv
-
-If you wish to use an specific scoring algorithm for the molecule, please set the option EXP3 or UCB like this:
+Example overriding the number of rounds per game:
 
 ```shell
-java -jar ./GARN3.jar GAME 1E8O 1E8O_fasta.txt 10 UCB
+java -jar ./GARN3.jar GAME 1E8O 1E8O_fasta.txt 10 750
 ```
 
-If you wish to compute the sampling space and also compute RMSD, you need to specify the GARN model file:
+Example specifying algorithm and reference file (with nbTour omitted):
+
+```shell
+java -jar ./GARN3.jar GAME 1E8O 1E8O_fasta.txt 10 UCB 1E8O_GARN.csv
+```
+
+Example specifying both nbTour and algorithm and reference file:
+
+```shell
+java -jar ./GARN3.jar GAME 1E8O 1E8O_fasta.txt 10 750 EXP3 1E8O_GARN.csv
+```
+
+Output 10 files : GARN*‹Name of molecule›_0.csv, GARN*‹Name of molecule›_1.csv, ..., GARN_‹Name of molecule›_9.csv
+
+If you wish to compute the sampling space and also compute RMSD, you need to provide a reference GARN model file as the final argument (see examples above). Use `0` in the algorithm position to let the program auto-select the algorithm, e.g.:
 
 ```shell
 java -jar ./GARN3.jar GAME 1E8O 1E8O_fasta.txt 10 0 1E8O_GARN.csv
 ```
 
-> Please note that the "0" following the number of solutions means that we don't want to specify the scoring algorithm (it will be automatically chosen by the GARN algorithm).
-> In this argument, ANY value different from "EXP3" and "UCB" will be ignored.
-
-Output 11 files : GARN*‹Name of molecule›\_0.csv, .. , & GARN*‹Name of molecule›\_9.csv, ... and a ‹Name of molecule›\_out.csv with the RMSD and the Maximum distance (to sort the sampling).
+Output 11 files : GARN*‹Name of molecule›_0.csv, .. , & GARN*‹Name of molecule›_9.csv, ... and a ‹Name of molecule›_out.csv with the RMSD and the Maximum distance (to sort the sampling).
 
 ## Calculate RMSD between predicted molecules
 
-To compute the RMSD between GARN files (compare to one file): `java -jar ./GARN3.jar GAME ‹Name of molecule› ‹GARN file of molecule 1› ‹GARN file of molecule 2› ...`
+To compute the RMSD between GARN files (compare to one file): `java -jar ./GARN3.jar RMSD ‹Name of molecule› ‹Reference GARN file› ‹GARN file 1› [GARN file 2 ...]`
 
 Example:
 
@@ -63,7 +76,7 @@ Example:
 java -jar ./GARN3.jar RMSD 1E8O 1E8O_GARN.csv GARN_1E8O_1.csv GARN_1E8O_2.csv GARN_1E8O_3.csv GARN_1E8O_4.csv
 ```
 
-Output 1 file: ‹Name of molecule›\_rmsd.csv with the RMSD between the first file and others files.
+Output 1 file: ‹Name of molecule›_rmsd.csv with the RMSD between the first file and others files.
 
 ## Calculate TM-Score between predicted molecules
 
@@ -80,7 +93,7 @@ Output 1 file: ‹Name of molecule›\_tmscore.csv with the RMSD between the fir
 ## Calculate minimum and maximum distance
 
 To compute the maximum distance in structure and sort the sampling:
-`java -jar ./GARN.jar SORT ‹Name of molecule› ‹GARN file of molecule 1› ‹GARN file of molecule 2› ...`
+`java -jar ./GARN3.jar SORT ‹Name of molecule› ‹GARN file of molecule 1› ‹GARN file of molecule 2› ...`
 
 Example:
 
